@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿獠XYZ</title>
+  
+  <subtitle>XYZ</subtitle>
+  <link href="https://cleverkn.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cleverkn.github.io/"/>
+  <updated>2022-11-26T04:50:36.557Z</updated>
+  <id>https://cleverkn.github.io/</id>
+  
+  <author>
+    <name>阿獠XYZ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>健身存档</title>
+    <link href="https://cleverkn.github.io/post/jian-shen-cun-dang-20221126.html"/>
+    <id>https://cleverkn.github.io/post/jian-shen-cun-dang-20221126.html</id>
+    <published>2022-11-26T04:55:29.000Z</published>
+    <updated>2022-11-26T04:50:36.557Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;第一次存档！&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="健身" scheme="https://cleverkn.github.io/tags/%E5%81%A5%E8%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇日记</title>
+    <link href="https://cleverkn.github.io/post/20221125.html"/>
+    <id>https://cleverkn.github.io/post/20221125.html</id>
+    <published>2022-11-25T05:55:29.000Z</published>
+    <updated>2022-11-25T15:59:56.119Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;逆转节点：2022/11/25&lt;/p&gt;
+&lt;p&gt;优势在我&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="日记" scheme="https://cleverkn.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第二次建站</title>
+    <link href="https://cleverkn.github.io/post/wo-de-di-er-ci-jian-zhan.html"/>
+    <id>https://cleverkn.github.io/post/wo-de-di-er-ci-jian-zhan.html</id>
+    <published>2022-11-25T05:55:29.000Z</published>
+    <updated>2022-11-26T04:31:54.601Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;第二次建站，第一次同样用的是hexo框架托管在Github上，但因为第一次折腾太乱，故重新开始&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="时间存档" scheme="https://cleverkn.github.io/tags/%E6%97%B6%E9%97%B4%E5%AD%98%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何让手机变得更流畅？（华为/荣耀）</title>
+    <link href="https://cleverkn.github.io/post/tech001.html"/>
+    <id>https://cleverkn.github.io/post/tech001.html</id>
+    <published>2022-08-18T15:51:00.000Z</published>
+    <updated>2022-08-28T15:20:40.213Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本篇文章主要围绕华为/荣耀机型的优化进行讨论，其他手机同理&lt;/p&gt;
+&lt;h3 id=&quot;一、手机卡顿原因&quot;&gt;&lt;a href=&quot;#一、手机卡顿原因&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://cleverkn.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="搞机" scheme="https://cleverkn.github.io/categories/%E6%95%99%E7%A8%8B/%E6%90%9E%E6%9C%BA/"/>
+    
+    
+    <category term="手机" scheme="https://cleverkn.github.io/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+    <category term="优化" scheme="https://cleverkn.github.io/tags/%E4%BC%98%E5%8C%96/"/>
+    
+    <category term="教程" scheme="https://cleverkn.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="折腾" scheme="https://cleverkn.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【CSGO】基于CSGO的游戏帧率和屏幕刷新率关系的分析</title>
+    <link href="https://cleverkn.github.io/post/fps-effect-and-monitor-on-csgo.html"/>
+    <id>https://cleverkn.github.io/post/fps-effect-and-monitor-on-csgo.html</id>
+    <published>2022-08-11T11:36:15.000Z</published>
+    <updated>2022-08-11T11:36:51.187Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【CSGO/PR教学】如何将4:3的录屏素材拉伸至正常比例</title>
+    <link href="https://cleverkn.github.io/post/csgo002.html"/>
+    <id>https://cleverkn.github.io/post/csgo002.html</id>
+    <published>2022-08-03T12:31:14.000Z</published>
+    <updated>2022-08-08T06:20:53.093Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;一、打开PR→新建→项目&quot;&gt;&lt;a href=&quot;#一、打开PR→新建→项目&quot; class=&quot;headerlink&quot; title=&quot;一、打开PR→新建→项目&quot;&gt;&lt;/a&gt;一、打开PR→新建→项目&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="CSGO" scheme="https://cleverkn.github.io/categories/CSGO/"/>
+    
+    
+    <category term="CSGO" scheme="https://cleverkn.github.io/tags/CSGO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World！</title>
+    <link href="https://cleverkn.github.io/post/hello-world-0.html"/>
+    <id>https://cleverkn.github.io/post/hello-world-0.html</id>
+    <published>2022-08-02T12:31:14.000Z</published>
+    <updated>2022-08-08T06:26:29.225Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;阿獠_XYZ</summary>
+        
+      
+    
+    
+    
+    
+    <category term="存档" scheme="https://cleverkn.github.io/tags/%E5%AD%98%E6%A1%A3/"/>
+    
+  </entry>
+  
+</feed>
