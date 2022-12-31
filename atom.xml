@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>阿獠XYZ</title>
+  <title>xyz_channel</title>
   
-  <subtitle>XYZ</subtitle>
+  <subtitle>xyz_channel</subtitle>
   <link href="https://cleverkn.github.io/atom.xml" rel="self"/>
   
   <link href="https://cleverkn.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://cleverkn.github.io/</id>
   
   <author>
-    <name>阿獠XYZ</name>
+    <name>xyz</name>
     
   </author>
   
