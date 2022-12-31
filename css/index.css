@@ -1524,14 +1524,14 @@ blockquote > :last-child {
   margin-bottom: 0 !important;
 }
 :root {
-  --hl-color: #90a4ae;
-  --hl-bg: #f6f8fa;
-  --hltools-bg: #e6ebf1;
-  --hltools-color: #90a4ae;
-  --hlnumber-bg: #f6f8fa;
-  --hlnumber-color: rgba(144,164,174,0.5);
-  --hlscrollbar-bg: #dce4eb;
-  --hlexpand-bg: linear-gradient(180deg, rgba(246,248,250,0.6), rgba(246,248,250,0.9));
+  --hl-color: #a6accd;
+  --hl-bg: #292d3e;
+  --hltools-bg: #252938;
+  --hltools-color: #a6accd;
+  --hlnumber-bg: #292d3e;
+  --hlnumber-color: rgba(166,172,205,0.5);
+  --hlscrollbar-bg: #393f57;
+  --hlexpand-bg: linear-gradient(180deg, rgba(41,45,62,0.6), rgba(41,45,62,0.9));
 }
 #article-container pre[class*='language-'].line-numbers {
   position: relative;
@@ -1572,88 +1572,69 @@ blockquote > :last-child {
   content: counter(linenumber);
   text-align: right;
 }
-pre[class*='language-'] .token.function {
-  color: #ffb62c;
-}
 pre[class*='language-'] .token.comment,
 pre[class*='language-'] .token.prolog,
 pre[class*='language-'] .token.doctype,
 pre[class*='language-'] .token.cdata {
-  color: rgba(149,165,166,0.8);
+  color: #6272a4;
 }
 pre[class*='language-'] .token.punctuation {
-  color: #5e6687;
+  color: #f8f8f2;
 }
-pre[class*='language-'] .token.namespace {
+pre[class*='language-'] .namespace {
   opacity: 0.7;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
   filter: alpha(opacity=70);
 }
-pre[class*='language-'] .token.operator,
+pre[class*='language-'] .token.property,
+pre[class*='language-'] .token.tag,
+pre[class*='language-'] .token.constant,
+pre[class*='language-'] .token.symbol,
+pre[class*='language-'] .token.deleted {
+  color: #ff79c6;
+}
 pre[class*='language-'] .token.boolean,
 pre[class*='language-'] .token.number {
-  color: #c76b29;
+  color: #bd93f9;
 }
-pre[class*='language-'] .token.property {
-  color: #c08b30;
+pre[class*='language-'] .token.selector,
+pre[class*='language-'] .token.attr-name,
+pre[class*='language-'] .token.string,
+pre[class*='language-'] .token.char,
+pre[class*='language-'] .token.builtin,
+pre[class*='language-'] .token.inserted {
+  color: #50fa7b;
 }
-pre[class*='language-'] .token.tag {
-  color: #3d8fd1;
-}
-pre[class*='language-'] .token.string {
-  color: #22a2c9;
-}
-pre[class*='language-'] .token.selector {
-  color: #6679cc;
-}
-pre[class*='language-'] .token.attr-name {
-  color: #c76b29;
-}
+pre[class*='language-'] .token.operator,
 pre[class*='language-'] .token.entity,
 pre[class*='language-'] .token.url,
 pre[class*='language-'] .language-css .token.string,
-pre[class*='language-'] .style .token.string {
-  color: #22a2c9;
-}
-pre[class*='language-'] .token.attr-value,
-pre[class*='language-'] .token.keyword,
-pre[class*='language-'] .token.control,
-pre[class*='language-'] .token.directive,
-pre[class*='language-'] .token.unit {
-  color: #ac9739;
-}
-pre[class*='language-'] .token.statement,
-pre[class*='language-'] .token.regex,
-pre[class*='language-'] .token.atrule {
-  color: #22a2c9;
-}
-pre[class*='language-'] .token.placeholder,
+pre[class*='language-'] .style .token.string,
 pre[class*='language-'] .token.variable {
-  color: #3d8fd1;
+  color: #f8f8f2;
 }
-pre[class*='language-'] .token.deleted {
-  text-decoration: line-through;
+pre[class*='language-'] .token.atrule,
+pre[class*='language-'] .token.attr-value,
+pre[class*='language-'] .token.function,
+pre[class*='language-'] .token.class-name {
+  color: #f1fa8c;
 }
-pre[class*='language-'] .token.inserted {
-  border-bottom: 1px dotted #202746;
-  text-decoration: none;
+pre[class*='language-'] .token.keyword {
+  color: #8be9fd;
 }
-pre[class*='language-'] .token.italic {
-  font-style: italic;
+pre[class*='language-'] .token.regex,
+pre[class*='language-'] .token.important {
+  color: #ffb86c;
 }
 pre[class*='language-'] .token.important,
 pre[class*='language-'] .token.bold {
   font-weight: bold;
 }
-pre[class*='language-'] .token.important {
-  color: #c94922;
+pre[class*='language-'] .token.italic {
+  font-style: italic;
 }
 pre[class*='language-'] .token.entity {
   cursor: help;
-}
-pre[class*='language-'] pre > code.highlight {
-  outline: 0.4em solid #c94922;
-  outline-offset: 0.4em;
 }
 #article-container pre[class*='language-'] {
   scrollbar-color: var(--hlscrollbar-bg) transparent;
