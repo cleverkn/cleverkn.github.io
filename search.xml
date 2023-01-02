@@ -42,25 +42,6 @@
     
     
     <entry>
-      <title>我的第二次建站</title>
-      <link href="//post/wo-de-di-er-ci-jian-zhan.html"/>
-      <url>//post/wo-de-di-er-ci-jian-zhan.html</url>
-      
-        <content type="html"><![CDATA[<p>第二次建站，第一次同样用的是hexo框架托管在Github上，但因为第一次折腾太乱，故重新开始</p><span id="more"></span><p>旧站：cleverkn.github.io</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 时间存档 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>如何让手机变得更流畅？（华为/荣耀）</title>
       <link href="//post/tech001.html"/>
       <url>//post/tech001.html</url>
@@ -88,19 +69,6 @@
             <tag> 折腾 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>【CSGO】基于CSGO的游戏帧率和屏幕刷新率关系的分析</title>
-      <link href="//post/fps-effect-and-monitor-on-csgo.html"/>
-      <url>//post/fps-effect-and-monitor-on-csgo.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
       
     </entry>
     
