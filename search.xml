@@ -27,31 +27,23 @@
     
     
     <entry>
-      <title>如何让手机变得更流畅？（华为/荣耀）</title>
-      <link href="//post/tech001.html"/>
-      <url>//post/tech001.html</url>
+      <title>【教程】CSGO笔记本拉伸至4:3画面比例</title>
+      <link href="//post/.html"/>
+      <url>//post/.html</url>
       
-        <content type="html"><![CDATA[<p>本篇文章主要围绕华为/荣耀机型的优化进行讨论，其他手机同理</p><h3 id="一、手机卡顿原因"><a href="#一、手机卡顿原因" class="headerlink" title="一、手机卡顿原因"></a>一、手机卡顿原因</h3><p>手机卡顿主要源于以下几点：</p><p>1.存储空间(ROM)不足</p><p>2.运行内存(RAM)不足</p><p>3.App臃肿</p><p>4.中央处理器(soc)性能不足</p><p>5.强行升级系统</p><p>6.个性化元素过多</p><h3 id="二、缓解手机卡顿（基础）"><a href="#二、缓解手机卡顿（基础）" class="headerlink" title="二、缓解手机卡顿（基础）"></a>二、缓解手机卡顿（基础）</h3><h4 id="方法一：清理存储空间"><a href="#方法一：清理存储空间" class="headerlink" title="方法一：清理存储空间"></a>方法一：清理存储空间</h4><p>使用系统自带清理功能，清理大部分垃圾文件</p><img src="../images/how-to-make-longer-phone-using-life/Screenshot%202022-08-21%20221438-1661694444830.png" alt="自带清理功能" style="zoom: 50%;"><p>使用App自带缓存清理功能 （ps：微信）</p><img src="../images/how-to-make-longer-phone-using-life/Screenshot%202022-08-21%20221745-1661694572720.png" alt="微信自带清理" style="zoom: 33%;"><p>第三方App清理（ps：清浊）</p><img src="../images/how-to-make-longer-phone-using-life/pic.hncj.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto" alt="清浊" style="zoom: 50%;"><img src="../images/how-to-make-longer-phone-using-life/20201211840135723.png" style="zoom: 50%;"><h4 id="方法二：清理运行内存"><a href="#方法二：清理运行内存" class="headerlink" title="方法二：清理运行内存"></a>方法二：清理运行内存</h4><p>经常清理后台（仅限Android，但不包括有墓碑机制的Android）</p><p><img src="/../images/how-to-make-longer-phone-using-life/Screenshot%202022-08-21%20214431-1661698825783.png" alt="一键清理后台"></p><p>使用小占用内存应用<br>例如将App回退到旧版本，使用魔改、机型定制App（baidu，b站上都有相关资源，安利一下<strong>晨钟酱</strong>（搞机大师）<a href="https://space.bilibili.com/251013709?spm_id_from=333.337.0.0%EF%BC%89">https://space.bilibili.com/251013709?spm_id_from=333.337.0.0）</a></p><p>在<strong>设置</strong>中取消应用自启动</p><img src="../images/how-to-make-longer-phone-using-life/Screenshot%202022-08-28%20230926.png" style="zoom: 50%;"><h4 id="方法三：App臃肿"><a href="#方法三：App臃肿" class="headerlink" title="方法三：App臃肿"></a>方法三：App臃肿</h4><p>轻量化App思路</p><p><img src="/../images/how-to-make-longer-phone-using-life/Screenshot%202022-08-28%20231704.png"></p>]]></content>
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=563525083&amp;bvid=BV11v4y1R7fh&amp;cid=918460969&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
       
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-          <category> 搞机 </category>
-          
-      </categories>
       
       
         <tags>
             
-            <tag> 手机 </tag>
+            <tag> CSGO </tag>
             
-            <tag> 优化 </tag>
+            <tag> 显示器 </tag>
+            
+            <tag> 游戏 </tag>
             
             <tag> 教程 </tag>
-            
-            <tag> 折腾 </tag>
             
         </tags>
       
