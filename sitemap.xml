@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://knxyz.xyz/post/fan-yi-006-fu-ben.html</loc>
+    <loc>https://knxyz.xyz/post/fan-yi-005.html</loc>
     
     <lastmod>2023-02-12</lastmod>
     
@@ -189,41 +189,6 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/tags/%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/tags/JomaTech/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://knxyz.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/</loc>
     <lastmod>2023-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -245,7 +210,42 @@
   </url>
   
   <url>
+    <loc>https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/JomaTech/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
     <lastmod>2023-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
