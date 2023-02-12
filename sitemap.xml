@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://knxyz.xyz/about/index.html</loc>
+    
+    <lastmod>2023-02-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://knxyz.xyz/baidu_verify_codeva-DqHwHvAm8Z.html</loc>
     
     <lastmod>2023-02-12</lastmod>
@@ -128,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/about/index.html</loc>
-    
-    <lastmod>2022-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://knxyz.xyz/tags/index.html</loc>
     
     <lastmod>2022-09-09</lastmod>
@@ -171,27 +171,6 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/tags/%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/tags/JomaTech/</loc>
-    <lastmod>2023-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://knxyz.xyz/tags/CSGO/</loc>
     <lastmod>2023-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -214,6 +193,27 @@
   
   <url>
     <loc>https://knxyz.xyz/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2023-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/JomaTech/</loc>
     <lastmod>2023-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
