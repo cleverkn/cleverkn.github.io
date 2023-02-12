@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>xyz_channel</title>
   
-  <subtitle>xyz_channel</subtitle>
-  <link href="https://cleverkn.github.io/atom.xml" rel="self"/>
+  <subtitle>生活技术分享</subtitle>
+  <link href="https://knxyz.xyz/atom.xml" rel="self"/>
   
-  <link href="https://cleverkn.github.io/"/>
+  <link href="https://knxyz.xyz/"/>
   <updated>2023-01-16T11:46:55.376Z</updated>
-  <id>https://cleverkn.github.io/</id>
+  <id>https://knxyz.xyz/</id>
   
   <author>
     <name>xyz</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>【双语翻译】我的顶级上司和赛博百叶窗（Joma Tech）</title>
-    <link href="https://cleverkn.github.io/post/shuang-yu-fan-yi-jomatech-yi-ge-mailchimp-guang-gao.html"/>
-    <id>https://cleverkn.github.io/post/shuang-yu-fan-yi-jomatech-yi-ge-mailchimp-guang-gao.html</id>
+    <link href="https://knxyz.xyz/post/shuang-yu-fan-yi-jomatech-yi-ge-mailchimp-guang-gao.html"/>
+    <id>https://knxyz.xyz/post/shuang-yu-fan-yi-jomatech-yi-ge-mailchimp-guang-gao.html</id>
     <published>2023-01-02T08:01:20.000Z</published>
     <updated>2023-01-16T11:46:55.376Z</updated>
     
@@ -36,18 +36,18 @@
     
     
     
-    <category term="双语" scheme="https://cleverkn.github.io/tags/%E5%8F%8C%E8%AF%AD/"/>
+    <category term="双语" scheme="https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/"/>
     
-    <category term="翻译" scheme="https://cleverkn.github.io/tags/%E7%BF%BB%E8%AF%91/"/>
+    <category term="翻译" scheme="https://knxyz.xyz/tags/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="JomaTech" scheme="https://cleverkn.github.io/tags/JomaTech/"/>
+    <category term="JomaTech" scheme="https://knxyz.xyz/tags/JomaTech/"/>
     
   </entry>
   
   <entry>
     <title>【教程】CSGO笔记本拉伸至4:3画面比例</title>
-    <link href="https://cleverkn.github.io/post/csgo003.html"/>
-    <id>https://cleverkn.github.io/post/csgo003.html</id>
+    <link href="https://knxyz.xyz/post/csgo003.html"/>
+    <id>https://knxyz.xyz/post/csgo003.html</id>
     <published>2022-12-11T08:01:20.000Z</published>
     <updated>2023-02-09T06:26:43.601Z</updated>
     
@@ -64,20 +64,20 @@
     
     
     
-    <category term="CSGO" scheme="https://cleverkn.github.io/tags/CSGO/"/>
+    <category term="CSGO" scheme="https://knxyz.xyz/tags/CSGO/"/>
     
-    <category term="显示器" scheme="https://cleverkn.github.io/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
+    <category term="显示器" scheme="https://knxyz.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
     
-    <category term="游戏" scheme="https://cleverkn.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+    <category term="游戏" scheme="https://knxyz.xyz/tags/%E6%B8%B8%E6%88%8F/"/>
     
-    <category term="教程" scheme="https://cleverkn.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://knxyz.xyz/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>【CSGO/PR教学】如何将4:3的录屏素材拉伸至正常比例</title>
-    <link href="https://cleverkn.github.io/post/csgo002.html"/>
-    <id>https://cleverkn.github.io/post/csgo002.html</id>
+    <link href="https://knxyz.xyz/post/csgo002.html"/>
+    <id>https://knxyz.xyz/post/csgo002.html</id>
     <published>2022-08-03T12:31:14.000Z</published>
     <updated>2022-08-08T06:20:53.093Z</updated>
     
@@ -92,17 +92,17 @@
     
     
     
-    <category term="CSGO" scheme="https://cleverkn.github.io/categories/CSGO/"/>
+    <category term="CSGO" scheme="https://knxyz.xyz/categories/CSGO/"/>
     
     
-    <category term="CSGO" scheme="https://cleverkn.github.io/tags/CSGO/"/>
+    <category term="CSGO" scheme="https://knxyz.xyz/tags/CSGO/"/>
     
   </entry>
   
   <entry>
     <title>Hello World！</title>
-    <link href="https://cleverkn.github.io/post/hello-world-0.html"/>
-    <id>https://cleverkn.github.io/post/hello-world-0.html</id>
+    <link href="https://knxyz.xyz/post/hello-world-0.html"/>
+    <id>https://knxyz.xyz/post/hello-world-0.html</id>
     <published>2022-08-02T12:31:14.000Z</published>
     <updated>2023-01-02T07:43:17.050Z</updated>
     
@@ -118,7 +118,7 @@
     
     
     
-    <category term="存档" scheme="https://cleverkn.github.io/tags/%E5%AD%98%E6%A1%A3/"/>
+    <category term="存档" scheme="https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/"/>
     
   </entry>
   
