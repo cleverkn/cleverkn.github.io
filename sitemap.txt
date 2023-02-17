@@ -1,4 +1,3 @@
-https://knxyz.xyz/zen/index.html
 https://knxyz.xyz/post/fan-yi-003.html
 https://knxyz.xyz/post/fan-yi-004.html
 https://knxyz.xyz/post/fan-yi-005.html
@@ -22,7 +21,6 @@ https://knxyz.xyz/tags/index.html
 https://knxyz.xyz/post/csgo002.html
 https://knxyz.xyz/
 https://knxyz.xyz/tags/CSGO/
-https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/
 https://knxyz.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/
 https://knxyz.xyz/tags/%E6%B8%B8%E6%88%8F/
 https://knxyz.xyz/tags/%E6%95%99%E7%A8%8B/
@@ -31,4 +29,5 @@ https://knxyz.xyz/tags/%E7%BF%BB%E8%AF%91/
 https://knxyz.xyz/tags/JomaTech/
 https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/
 https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/
+https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/
 https://knxyz.xyz/categories/CSGO/
