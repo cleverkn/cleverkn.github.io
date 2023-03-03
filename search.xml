@@ -1,125 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>【CSGO/PR教学】如何将4:3的录屏素材拉伸至正常比例</title>
-    <url>//post/csgo002.html</url>
-    <content><![CDATA[<h3 id="一、打开PR→新建→项目"><a href="#一、打开PR→新建→项目" class="headerlink" title="一、打开PR→新建→项目"></a>一、打开PR→新建→项目</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(75).png" alt="屏幕截图(75)"></p>
-<h3 id="二、新建→序列"><a href="#二、新建→序列" class="headerlink" title="二、新建→序列"></a>二、新建→序列</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(76).png" alt="屏幕截图(76)"></p>
-<h3 id="三、自定义序列"><a href="#三、自定义序列" class="headerlink" title="三、自定义序列"></a>三、自定义序列</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(87).png" alt="屏幕截图(87)"></p>
-<p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(78).png" alt="屏幕截图(78)">将时基根据素材帧率大小同步调整 </p>
-<p>将帧大小调整为需要的分辨率大小，如常规16:9，也就是1920×1080（1k），或2560×1440（2k，不推荐）以及3840×2160（4k）</p>
-<p>其余参数参照上图即可</p>
-<h3 id="四、导入-4-3-CSGO录屏素材"><a href="#四、导入-4-3-CSGO录屏素材" class="headerlink" title="四、导入 4:3 CSGO录屏素材"></a>四、导入 4:3 CSGO录屏素材</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(79).png" alt="屏幕截图(79)"></p>
-<p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(81).png" alt="屏幕截图(81)"></p>
-<p>将素材拖拽至时间轴，并<strong>保持现有设置</strong></p>
-<pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown">:::tip
-一定要勾选保持现有设置（前文自定义序列设置），否则序列分辨率大小将根据视频源大小发生改变！
-:::</code></pre>
-
-<h3 id="五、拉伸视频素材"><a href="#五、拉伸视频素材" class="headerlink" title="五、拉伸视频素材"></a>五、拉伸视频素材</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(82).png" alt="屏幕截图(82)"></p>
-<p>双击时间轴中素材，打开效果控件</p>
-<p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(85).png" alt="屏幕截图(85)"></p>
-<p>取消勾选「等比缩放」<img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(86).png" alt="屏幕截图(86)"></p>
-<p>调整「缩放高度」和「缩放宽度」将预览画面填满</p>
-<p>over</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
+      <link href="//post/fan-yi-006.html"/>
+      <url>//post/fan-yi-006.html</url>
+      
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 翻译 </tag>
+            
+            <tag> JomaTech </tag>
+            
+            <tag> 熟肉 </tag>
+            
+            <tag> 搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
+      <link href="//post/fan-yi-005.html"/>
+      <url>//post/fan-yi-005.html</url>
+      
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 翻译 </tag>
+            
+            <tag> JomaTech </tag>
+            
+            <tag> 熟肉 </tag>
+            
+            <tag> 搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【熟肉/Joma Tech】用动漫的方式打开程序员 2</title>
+      <link href="//post/fan-yi-004.html"/>
+      <url>//post/fan-yi-004.html</url>
+      
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=735680956&amp;bvid=BV1sD4y1n7Qi&amp;cid=983634931&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 翻译 </tag>
+            
+            <tag> JomaTech </tag>
+            
+            <tag> 熟肉 </tag>
+            
+            <tag> 搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【熟肉/Joma Tech】用动漫的方式打开程序员 3</title>
+      <link href="//post/fan-yi-003.html"/>
+      <url>//post/fan-yi-003.html</url>
+      
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=862888289&amp;bvid=BV1qG4y1C71w&amp;cid=968673854&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 翻译 </tag>
+            
+            <tag> JomaTech </tag>
+            
+            <tag> 熟肉 </tag>
+            
+            <tag> 搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【双语翻译】我的顶级上司和赛博百叶窗（Joma Tech）</title>
+      <link href="//post/fan-yi-002.html"/>
+      <url>//post/fan-yi-002.html</url>
+      
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=819589129&amp;bvid=BV1rG4y1j7ob&amp;cid=946812828&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 双语 </tag>
+            
+            <tag> 翻译 </tag>
+            
+            <tag> JomaTech </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【教程】CSGO笔记本拉伸至4:3画面比例</title>
+      <link href="//post/csgo003.html"/>
+      <url>//post/csgo003.html</url>
+      
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=563525083&amp;bvid=BV11v4y1R7fh&amp;cid=918460969&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> CSGO </tag>
+            
+            <tag> 显示器 </tag>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【CSGO/PR教学】如何将4:3的录屏素材拉伸至正常比例</title>
+      <link href="//post/csgo002.html"/>
+      <url>//post/csgo002.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="一、打开PR→新建→项目"><a href="#一、打开PR→新建→项目" class="headerlink" title="一、打开PR→新建→项目"></a>一、打开PR→新建→项目</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(75).png" alt="屏幕截图(75)"></p><h3 id="二、新建→序列"><a href="#二、新建→序列" class="headerlink" title="二、新建→序列"></a>二、新建→序列</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(76).png" alt="屏幕截图(76)"></p><h3 id="三、自定义序列"><a href="#三、自定义序列" class="headerlink" title="三、自定义序列"></a>三、自定义序列</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(87).png" alt="屏幕截图(87)"></p><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(78).png" alt="屏幕截图(78)">将时基根据素材帧率大小同步调整 </p><p>将帧大小调整为需要的分辨率大小，如常规16:9，也就是1920×1080（1k），或2560×1440（2k，不推荐）以及3840×2160（4k）</p><p>其余参数参照上图即可</p><h3 id="四、导入-4-3-CSGO录屏素材"><a href="#四、导入-4-3-CSGO录屏素材" class="headerlink" title="四、导入 4:3 CSGO录屏素材"></a>四、导入 4:3 CSGO录屏素材</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(79).png" alt="屏幕截图(79)"></p><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(81).png" alt="屏幕截图(81)"></p><p>将素材拖拽至时间轴，并<strong>保持现有设置</strong></p><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown">:::tip一定要勾选保持现有设置（前文自定义序列设置），否则序列分辨率大小将根据视频源大小发生改变！:::</code></pre><h3 id="五、拉伸视频素材"><a href="#五、拉伸视频素材" class="headerlink" title="五、拉伸视频素材"></a>五、拉伸视频素材</h3><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(82).png" alt="屏幕截图(82)"></p><p>双击时间轴中素材，打开效果控件</p><p><img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(85).png" alt="屏幕截图(85)"></p><p>取消勾选「等比缩放」<img src="/../images/CSGO002/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(86).png" alt="屏幕截图(86)"></p><p>调整「缩放高度」和「缩放宽度」将预览画面填满</p><p>over</p>]]></content>
+      
+      
       <categories>
-        <category>CSGO</category>
+          
+          <category> CSGO </category>
+          
       </categories>
-      <tags>
-        <tag>CSGO</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】CSGO笔记本拉伸至4:3画面比例</title>
-    <url>//post/csgo003.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=563525083&amp;bvid=BV11v4y1R7fh&amp;cid=918460969&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>]]></content>
-      <tags>
-        <tag>CSGO</tag>
-        <tag>显示器</tag>
-        <tag>游戏</tag>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World！</title>
-    <url>//post/hello-world-0.html</url>
-    <content><![CDATA[<p>xyz_channel 正式建站！</p>
-]]></content>
-      <tags>
-        <tag>存档</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【熟肉/Joma Tech】用动漫的方式打开程序员 3</title>
-    <url>//post/fan-yi-003.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=862888289&amp;bvid=BV1qG4y1C71w&amp;cid=968673854&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-</div>]]></content>
-      <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【双语翻译】我的顶级上司和赛博百叶窗（Joma Tech）</title>
-    <url>//post/fan-yi-002.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=819589129&amp;bvid=BV1rG4y1j7ob&amp;cid=946812828&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-]]></content>
-      <tags>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>双语</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【熟肉/Joma Tech】用动漫的方式打开程序员 2</title>
-    <url>//post/fan-yi-004.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=735680956&amp;bvid=BV1sD4y1n7Qi&amp;cid=983634931&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-</div>]]></content>
-      <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
-    <url>//post/fan-yi-005.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-
-</div>]]></content>
-      <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
-    <url>//post/fan-yi-006.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-</div>]]></content>
-      <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> CSGO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World！</title>
+      <link href="//post/hello-world-0.html"/>
+      <url>//post/hello-world-0.html</url>
+      
+        <content type="html"><![CDATA[<p>xyz_channel 正式建站！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 存档 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
