@@ -53,7 +53,7 @@
       </tags>
   </entry>
   <entry>
-    <title>Onedrive公共云盘</title>
+    <title>搭建Onedrive公共云盘</title>
     <url>//post/onedrive-notice.html</url>
     <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名:onedrive.knyxz.xyz"></a>域名:onedrive.knyxz.xyz</h3><p>在逛gai的时候发现浅笑安然的博客（<a href="https://sianx.com/%EF%BC%89">https://sianx.com/）</a><br><br><img src="/../images/onedrive_notice/001.png" alt="浅笑安然のonedrive云盘"><br>其博客中工具菜单里的我的云盘，没想到能直接访问onedrive云盘并且下载文件<br>只要将onedrive上传文件夹中指定一个公共文件夹<br>再用Onedrive-vercel-index（<a href="https://github.com/spencerwooo/onedrive-vercel-index%EF%BC%89">https://github.com/spencerwooo/onedrive-vercel-index）</a><br><br><img src="/../images/onedrive_notice/002.png" alt="github project"><br>进行一个Fork，根据官方文档用vercal进行部署就完成了<br><br>回想起来vercal这个网站还蛮良心的，hexo加速和域名解析都是在这个上面搞的，真不戳：）<br><br><img src="/../images/onedrive_notice/003.png" alt="vercal"><br>最后放个成果图↓<br><img src="/../images/onedrive_notice/004.png" alt="建好的公共云盘"></p>
 ]]></content>
@@ -108,11 +108,10 @@
       </tags>
   </entry>
   <entry>
-    <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
-    <url>//post/fan-yi-005.html</url>
+    <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
+    <url>//post/fan-yi-006.html</url>
     <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 </div>]]></content>
       <tags>
@@ -123,10 +122,11 @@
       </tags>
   </entry>
   <entry>
-    <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
-    <url>//post/fan-yi-006.html</url>
+    <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
+    <url>//post/fan-yi-005.html</url>
     <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 
 </div>]]></content>
       <tags>
