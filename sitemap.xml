@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://knxyz.xyz/post/samsung-g40b-test.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://knxyz.xyz/about/index.html</loc>
     
     <lastmod>2023-03-10</lastmod>
@@ -216,6 +225,13 @@
   </url>
   
   <url>
+    <loc>https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://knxyz.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -237,13 +253,6 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/</loc>
-    <lastmod>2023-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://knxyz.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -259,6 +268,13 @@
   
   <url>
     <loc>https://knxyz.xyz/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E8%AF%84%E6%B5%8B/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -310,6 +326,13 @@
   
   <url>
     <loc>https://knxyz.xyz/categories/%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/categories/%E8%AF%84%E6%B5%8B/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

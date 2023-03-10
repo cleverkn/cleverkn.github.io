@@ -6,7 +6,7 @@
   <link href="https://knxyz.xyz/atom.xml" rel="self"/>
   
   <link href="https://knxyz.xyz/"/>
-  <updated>2023-03-09T13:43:23.788Z</updated>
+  <updated>2023-03-10T05:08:01.722Z</updated>
   <id>https://knxyz.xyz/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三星G40B使用报告</title>
+    <link href="https://knxyz.xyz/post/samsung-g40b-test.html"/>
+    <id>https://knxyz.xyz/post/samsung-g40b-test.html</id>
+    <published>2023-03-10T04:42:29.000Z</published>
+    <updated>2023-03-10T05:08:01.722Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/post/samsung-g40b-test.htm/_posts/samsung-g40b-test/001.jpg&quot; alt=&quot;SAMSUNG</summary>
+        
+      
+    
+    
+    
+    <category term="评测" scheme="https://knxyz.xyz/categories/%E8%AF%84%E6%B5%8B/"/>
+    
+    
+    <category term="显示器" scheme="https://knxyz.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
+    
+    <category term="评测" scheme="https://knxyz.xyz/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>搭建Onedrive公共云盘</title>
