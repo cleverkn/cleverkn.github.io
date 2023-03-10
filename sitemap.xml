@@ -225,13 +225,6 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/</loc>
-    <lastmod>2023-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://knxyz.xyz/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,6 +240,20 @@
   
   <url>
     <loc>https://knxyz.xyz/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E5%AD%98%E6%A1%A3/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E8%AF%84%E6%B5%8B/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -274,14 +281,7 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E8%AF%84%E6%B5%8B/</loc>
-    <lastmod>2023-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
+    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -302,14 +302,14 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
+    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
+    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -325,14 +325,14 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/categories/%E6%8A%98%E8%85%BE/</loc>
+    <loc>https://knxyz.xyz/categories/%E8%AF%84%E6%B5%8B/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/categories/%E8%AF%84%E6%B5%8B/</loc>
+    <loc>https://knxyz.xyz/categories/%E6%8A%98%E8%85%BE/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
