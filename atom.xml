@@ -6,7 +6,7 @@
   <link href="https://knxyz.xyz/atom.xml" rel="self"/>
   
   <link href="https://knxyz.xyz/"/>
-  <updated>2023-03-10T05:47:19.091Z</updated>
+  <updated>2023-03-10T14:02:27.995Z</updated>
   <id>https://knxyz.xyz/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Beizhu</title>
+    <link href="https://knxyz.xyz/post/beizhu.html"/>
+    <id>https://knxyz.xyz/post/beizhu.html</id>
+    <published>2023-03-10T14:02:27.000Z</published>
+    <updated>2023-03-10T14:02:27.995Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>三星G40B使用报告</title>
