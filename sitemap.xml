@@ -262,6 +262,13 @@
   </url>
   
   <url>
+    <loc>https://knxyz.xyz/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://knxyz.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -290,7 +297,7 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
+    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -311,14 +318,14 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
+    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
+    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

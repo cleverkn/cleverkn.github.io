@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>Beizhu</title>
+      <title>博客分类规则</title>
       <link href="//post/beizhu.html"/>
       <url>//post/beizhu.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>I ：闲谈</p><p>II：折腾</p><p>III：笔记</p><p>IV：评测</p><p>V：读书笔记</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -89,11 +95,11 @@
       
         <tags>
             
+            <tag> 熟肉 </tag>
+            
             <tag> 翻译 </tag>
             
             <tag> JomaTech </tag>
-            
-            <tag> 熟肉 </tag>
             
             <tag> 搬运 </tag>
             
@@ -120,11 +126,11 @@
       
         <tags>
             
+            <tag> 熟肉 </tag>
+            
             <tag> 翻译 </tag>
             
             <tag> JomaTech </tag>
-            
-            <tag> 熟肉 </tag>
             
             <tag> 搬运 </tag>
             
@@ -151,11 +157,11 @@
       
         <tags>
             
+            <tag> 熟肉 </tag>
+            
             <tag> 翻译 </tag>
             
             <tag> JomaTech </tag>
-            
-            <tag> 熟肉 </tag>
             
             <tag> 搬运 </tag>
             
@@ -182,11 +188,11 @@
       
         <tags>
             
+            <tag> 熟肉 </tag>
+            
             <tag> 翻译 </tag>
             
             <tag> JomaTech </tag>
-            
-            <tag> 熟肉 </tag>
             
             <tag> 搬运 </tag>
             
@@ -213,11 +219,11 @@
       
         <tags>
             
-            <tag> 双语 </tag>
-            
             <tag> 翻译 </tag>
             
             <tag> JomaTech </tag>
+            
+            <tag> 双语 </tag>
             
         </tags>
       
