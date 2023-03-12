@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://knxyz.xyz/about/index.html</loc>
+    
+    <lastmod>2023-03-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://knxyz.xyz/post/vi-001.html</loc>
     
     <lastmod>2023-03-12</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://knxyz.xyz/post/beizhu.html</loc>
     
     <lastmod>2023-03-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/about/index.html</loc>
-    
-    <lastmod>2023-03-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -336,7 +336,7 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
+    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -357,14 +357,14 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
+    <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E5%8F%8C%E8%AF%AD/</loc>
+    <loc>https://knxyz.xyz/tags/%E6%90%AC%E8%BF%90/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
