@@ -200,7 +200,7 @@
 
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://knxyz.xyz/tags/%E6%9D%82%E8%A8%80/</loc>
     <lastmod>2023-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -214,7 +214,14 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E6%9D%82%E8%A8%80/</loc>
+    <loc>https://knxyz.xyz/tags/%E6%91%98%E5%BD%95-%E7%8E%8B%E5%9E%A0/</loc>
+    <lastmod>2023-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -256,13 +263,6 @@
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/tags/%E6%91%98%E5%BD%95-%E7%8E%8B%E5%9E%A0/</loc>
-    <lastmod>2023-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://knxyz.xyz/tags/%E7%86%9F%E8%82%89/</loc>
     <lastmod>2023-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -293,14 +293,21 @@
 
   
   <url>
-    <loc>https://knxyz.xyz/categories/%E6%8A%80%E6%9C%AF%E9%97%B2%E8%B0%88/</loc>
+    <loc>https://knxyz.xyz/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://knxyz.xyz/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://knxyz.xyz/categories/%E6%91%98%E5%BD%95/</loc>
+    <lastmod>2023-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://knxyz.xyz/categories/%E6%8A%80%E6%9C%AF%E9%97%B2%E8%B0%88/</loc>
     <lastmod>2023-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -315,13 +322,6 @@
   
   <url>
     <loc>https://knxyz.xyz/categories/%E8%AF%84%E6%B5%8B/</loc>
-    <lastmod>2023-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://knxyz.xyz/categories/%E6%91%98%E5%BD%95/</loc>
     <lastmod>2023-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
