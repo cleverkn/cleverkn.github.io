@@ -1,81 +1,157 @@
 <!DOCTYPE html>
 <html>
-  <!DOCTYPE html>
-<html lang="zh-CN">
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta charset="utf-8">
   
-  <title>搭建Onedrive公共云盘 - xyz_blog</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-  
-  <meta name="keywords" content=技术,云盘,记录>
-  
-    <meta name="description" content="    No Tech No Life&lt;br&gt; Email: gaoyc37@outlook.com">
+  <title>搭建Onedrive公共云盘 | xyz_blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
   
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=1.02">
-  
-  
-    <link rel="alternate" href="/atom.xml " title="xyz_blog" type="application/atom+xml">
-  
-
   
 <link rel="stylesheet" href="/css/style.css">
 
-<meta name="generator" content="Hexo 6.2.0">
+  
+    
+<link rel="stylesheet" href="/css/highlight.css">
+
+  
+  <meta name="description" content="搭建个人onedrive云盘过程流水账">
+<meta property="og:type" content="article">
+<meta property="og:title" content="搭建Onedrive公共云盘">
+<meta property="og:url" content="https://knxyz.xyz/post/onedrive-notice.html">
+<meta property="og:site_name" content="xyz_blog">
+<meta property="og:description" content="搭建个人onedrive云盘过程流水账">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://knxyz.xyz/images/onedrive_notice/001.png">
+<meta property="og:image" content="https://knxyz.xyz/images/onedrive_notice/002.png">
+<meta property="og:image" content="https://knxyz.xyz/images/onedrive_notice/003.png">
+<meta property="og:image" content="https://knxyz.xyz/images/onedrive_notice/004.png">
+<meta property="article:published_time" content="2023-03-09T12:48:52.000Z">
+<meta property="article:modified_time" content="2023-03-11T03:43:00.367Z">
+<meta property="article:author" content="xyz">
+<meta property="article:tag" content="技术">
+<meta property="article:tag" content="云盘">
+<meta property="article:tag" content="记录">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://knxyz.xyz/images/onedrive_notice/001.png"><meta name="generator" content="Hexo 6.2.0">
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
+<link rel="alternate" href="/atom.xml" title="xyz_blog" type="application/atom+xml">
 </head>
-  <body>
-    <div class="container">
-      <header class="header">
-  <div class="blog-title">
-    <a href="/" class="logo">xyz_blog</a>
-    <div class="subtitle">闲谈技术的XYZ</div>
-  </div>
-  <nav class="navbar">
-    <ul class="menu">
+
+<body>
+  <div id="wrapper">
+    <header id="header">
+  <h1 id="title">
+    <a href="/">xyz_blog</a>
+  </h1>
+  <nav>
+    
+    
       
-        <li class="menu-item">
-          <a href="/" class="menu-item-link">主页</a>
-        </li>
+      <a class="nav-link" href="/">Home</a>
+    
       
-        <li class="menu-item">
-          <a href="/archives" class="menu-item-link">归档</a>
-        </li>
+        <span class="nav-spacer">×</span>
       
-        <li class="menu-item">
-          <a href="/about" class="menu-item-link">关于</a>
-        </li>
-      
-    </ul>
+      <a class="nav-link" href="/archives">Archives</a>
+    
+    
   </nav>
 </header>
-<article class="post">
-  <div class="post-title">
-    <h1 class="article-title">搭建Onedrive公共云盘</h1>
-  </div>
-   <div class="post-meta">
-    <span class="post-time">2023-03-09</span>
-  </div>
-  <div class="post-content">
-    <h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><p>在逛gai的时候发现浅笑安然的博客（<a target="_blank" rel="noopener" href="https://sianx.com/">https://sianx.com</a> ）<br><br><img src="/../images/onedrive_notice/001.png" alt="浅笑安然のonedrive云盘"><br>其博客中工具菜单里的我的云盘，没想到能直接访问onedrive云盘并且下载文件<br>只要将onedrive上传文件夹中指定一个公共文件夹<br>再用Onedrive-vercel-index（<a target="_blank" rel="noopener" href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a> ）<br><br><img src="/../images/onedrive_notice/002.png" alt="github project"><br>进行一个Fork，根据官方文档用vercel进行部署就完成了<br><br>回想起来vercel这个网站还蛮良心的，hexo加速和域名解析都是在这个上面搞的，真不戳：）<br><br><img src="/../images/onedrive_notice/003.png" alt="vercal"><br>最后放个成果图↓<br><img src="/../images/onedrive_notice/004.png" alt="建好的公共云盘"></p>
 
-  </div>
-  <div class="post-footer">
+    <div id="content">
+      <article id="post-onedrive-notice" class="article article-type-post" itemprop="blogPost" itemscope>
+  <div class="article-inner">
     
-      <ul class="post-tag-list" itemprop="keywords"><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/%E4%BA%91%E7%9B%98/" rel="tag">云盘</a></li><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/%E6%8A%80%E6%9C%AF/" rel="tag">技术</a></li><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/%E8%AE%B0%E5%BD%95/" rel="tag">记录</a></li></ul>
-    
+      <header class="article-header">
+        
+  
+    <h2 class="article-title" itemprop="headline name">
+      搭建Onedrive公共云盘
+    </h2>
+  
 
-    <a href="#top" class="top">返回顶部</a>
+
+        <div class="article-meta">
+          <time class="article-date" datetime="2023-03-09T12:48:52.000Z" itemprop="datePublished">三月 9, 2023, 8:48 晚上</time>
+
+          
+        </div>
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+        <h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><p>在逛gai的时候发现浅笑安然的博客（<a target="_blank" rel="noopener" href="https://sianx.com/">https://sianx.com</a> ）<br><br><img src="/../images/onedrive_notice/001.png" alt="浅笑安然のonedrive云盘"><br>其博客中工具菜单里的我的云盘，没想到能直接访问onedrive云盘并且下载文件<br>只要将onedrive上传文件夹中指定一个公共文件夹<br>再用Onedrive-vercel-index（<a target="_blank" rel="noopener" href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a> ）<br><br><img src="/../images/onedrive_notice/002.png" alt="github project"><br>进行一个Fork，根据官方文档用vercel进行部署就完成了<br><br>回想起来vercel这个网站还蛮良心的，hexo加速和域名解析都是在这个上面搞的，真不戳：）<br><br><img src="/../images/onedrive_notice/003.png" alt="vercal"><br>最后放个成果图↓<br><img src="/../images/onedrive_notice/004.png" alt="建好的公共云盘"></p>
+
+      
+    </div>
+    
+    
+    <div class="article-category">
+      
+        <b>Categories:</b>
+        <a class="article-category-link" href="/categories/%E6%8A%98%E8%85%BE/">折腾</a>
+      
+      
+        <br/>
+      
+      
+        <b>Tags:</b>
+        <a class="article-tag-none-link" href="/tags/%E4%BA%91%E7%9B%98/" rel="tag">云盘</a>, <a class="article-tag-none-link" href="/tags/%E6%8A%80%E6%9C%AF/" rel="tag">技术</a>, <a class="article-tag-none-link" href="/tags/%E8%AE%B0%E5%BD%95/" rel="tag">记录</a>
+      
+    </div>
+    
+    
   </div>
 </article>
-<footer>
-  &copy; 2023
-  <span class="author">
-    xyz
-  </span>
-</footer>
+
+  
+<nav id="article-nav" class="article-nav">
+  
+    <a href="/post/samsung-g40b-test.html" id="article-nav-newer" class="article-nav-link-wrap newer">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          三星G40B使用报告
+        
+      </div>
+    </a>
+  
+  
+    <a href="/post/fan-yi-006.html" id="article-nav-older" class="article-nav-link-wrap older">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">
+        
+          【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件
+        
+      </div>
+    </a>
+  
+</nav>
+
+
+
+
+
+
     </div>
-  </body>
+  </div>
+  
+
+
+
+
+<div id="settings-container">
+  <div id="dark-mode">dark</div>
+  <div id="sans-font">sans</div>
+</div>
+<script type="text/javascript">
+let d=document,r=d.documentElement.style,f=r.setProperty.bind(r),l=localStorage,s=l.getItem('s')||(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches),n=l.getItem('n'),m=d.getElementById("dark-mode"),b=()=>{f('--bg-color','#fafafa');f('--code-bg-color','#f4f4f4');f('--text-color','#212121');f('--secondary-color','#808080');f('--tertiary-color','#b0b0b0');f('--link-color','#b5c8cf');f('--link-hover-color','#618794');f('--link-bg-color','#dae4e7');f('--selection-color','#dae4e7');m.innerHTML="dark"},c=()=>{f('--bg-color','#212121');f('--code-bg-color','#292929');f('--text-color','#fff');f('--secondary-color','#c0c0c0');f('--tertiary-color','#6e6e6e');f('--link-color','#4d6b75');f('--link-hover-color','#96b1bb');f('--link-bg-color','#5d828e');f('--selection-color','#acc1c9');m.innerHTML="light"},o=d.getElementById("sans-font"),e=()=>{f('--body-stack','"Lora", "Georgia", "Times New Roman", serif');o.innerHTML="sans"},g=()=>{f('--body-stack','"Lato", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Verdana", sans-serif');o.innerHTML="serif"};m.onclick=()=>{if(s==2){s=1;l.setItem('s',s);c()}else{s=2;l.setItem('s',s);b()}};o.onclick=()=>{if(n==2){n=1;l.setItem('n',n);g()}else{n=2;l.setItem('n',n);e()}};if(!s){s=2;l.setItem('s',2)};if(s==1){c()};if(!n){n=2;l.setItem('n',2)};if(n==1){g()};
+</script>
+
+
+
+
+</body>
 </html>
