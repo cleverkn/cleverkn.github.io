@@ -3,7 +3,7 @@
   <entry>
     <title>显示技术与游戏</title>
     <url>//post/i-001-monitor-gaming.html</url>
-    <content><![CDATA[<p>因为长期低刷新率 60hz 屏幕下，玩 CSGO、瓦兰特 等竞技性射击游戏，明明我先看见对手，却被对面先手夺我命。所以觉得自己的屏幕刷新率比对手低，是被 kill 的主要原因。在这周又体验了120hz、240hz显示器，带给了我不同的感受。所以屏幕刷新率和游戏生成帧真的会影响游戏的操作吗？刷新率和帧数一定是越高越好吗？当然前面这种被“反杀”的原因包括其他因素比如网络延迟等，不作为此次的讨论范围，本篇文章仅对帧率和刷新率对游戏操作造成的影响进行探究。本篇文章不是“游戏教学”，而是以一名玩家的视角谈谈显示技术和游戏的关系，内容略微枯燥，不过作为一名玩家的视角来说还是有意义和参考价值的。</p>
+    <content><![CDATA[<p>因为长期低刷新率 60hz 屏幕下，玩 CSGO、瓦兰特 等竞技性射击游戏，明明我先看见对手，却被对面先手夺我命。所以觉得自己的屏幕刷新率比对手低，是被 kill 的主要原因。在这之后又体验了120hz、240hz显示器，带给了我不同的感受。所以屏幕刷新率和游戏生成帧真的会影响游戏的操作吗？刷新率和帧数一定是越高越好吗？当然前面这种被“反杀”的原因包括其他因素比如网络延迟等，不作为此次的讨论范围，本篇文章仅对帧率和刷新率对游戏操作造成的影响进行探究。本篇文章不是“游戏教学”，而是以一名玩家的视角谈谈显示技术和游戏的关系，内容略微枯燥，不过作为一名玩家的视角来说还是有意义和参考价值的。</p>
 <h2 id="画面的产生——帧率（fps）"><a href="#画面的产生——帧率（fps）" class="headerlink" title="画面的产生——帧率（fps）"></a>画面的产生——帧率（fps）</h2><p>帧率及一秒内生成的画面数量，单位时间内生成的画面越多，画面也就更流畅。很早以前，胶片价格非常的昂贵<del>虽然现在也很贵</del>，所以为了同时满足观赏度和成本的需求，发现以24帧每秒的帧速率是最合适的。这也是为什么很多游戏主机上架的游戏大多都能运行30fps及以上的帧率，以保证画面的基础流畅度和游戏可玩性。</p>
 ]]></content>
       <categories>
@@ -56,6 +56,41 @@
         <tag>技术</tag>
         <tag>云盘</tag>
         <tag>记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
+    <url>//post/fan-yi-005.html</url>
+    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+</div>]]></content>
+      <categories>
+        <category>翻译</category>
+      </categories>
+      <tags>
+        <tag>熟肉</tag>
+        <tag>翻译</tag>
+        <tag>JomaTech</tag>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三星G40B使用报告</title>
+    <url>//post/samsung-g40b-test.html</url>
+    <content><![CDATA[<p><img src="/../images/samsingg40b/001.jpg" alt="SAMSUNG G40B"></p>
+<h3 id="基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数"><a href="#基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数" class="headerlink" title="基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数"></a>基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数</h3><h3 id="本篇文章就显示器的使用体验方面进行介绍"><a href="#本篇文章就显示器的使用体验方面进行介绍" class="headerlink" title="本篇文章就显示器的使用体验方面进行介绍"></a>本篇文章就显示器的使用体验方面进行介绍</h3><span id="more"></span>
+
+<h4 id="优点："><a href="#优点：" class="headerlink" title="优点："></a>优点：</h4><p>  -束线孔位<br>  -稳定的升降支架<br>  -较为好用的OSD菜单和OSD控制按钮<br>  -DC调光，对眼睛友好<br>  -色彩方面属于游戏显示器中较好梯队<br>  -Nano ips中较快的响应时间<br>  -不糊弄的护眼模式<br>  -不抢别人位置的插头</p>
+<h4 id="缺点："><a href="#缺点：" class="headerlink" title="缺点："></a>缺点：</h4><p>  -显示器待机时底部蓝色闪光无法关闭<br>  -USB接口只能负责固件升级，暂未发现其他功能<br>  -接口处易卡视频传输线（是线弯折，但不太严重）<br>  -耳机孔比较难插入，位置刁钻<br>  -设置更快及以上响应时间时会出现比较严重的过冲现象，网页滚动时会出现字体周围泛白拖影<br>  -变宽较大，可以跑马<br>  -支架脚垫摩擦力较差<br>  -OSD按钮好用但是有点松动</p>
+<h3 id="总体来说没什么大问题，中规中矩的产品"><a href="#总体来说没什么大问题，中规中矩的产品" class="headerlink" title="总体来说没什么大问题，中规中矩的产品"></a>总体来说没什么大问题，中规中矩的产品</h3><h3 id="虽然面板用的是LG-但是三星调教的不错"><a href="#虽然面板用的是LG-但是三星调教的不错" class="headerlink" title="虽然面板用的是LG 但是三星调教的不错"></a>虽然面板用的是LG 但是三星调教的不错</h3><h3 id="比同样技术规格的华硕等产品更便宜"><a href="#比同样技术规格的华硕等产品更便宜" class="headerlink" title="比同样技术规格的华硕等产品更便宜"></a>比同样技术规格的华硕等产品更便宜</h3><h3 id="只有一年质保，还得多用一段时间再来评价"><a href="#只有一年质保，还得多用一段时间再来评价" class="headerlink" title="只有一年质保，还得多用一段时间再来评价"></a>只有一年质保，还得多用一段时间再来评价</h3>]]></content>
+      <categories>
+        <category>评测</category>
+      </categories>
+      <tags>
+        <tag>评测</tag>
+        <tag>显示器</tag>
       </tags>
   </entry>
   <entry>
@@ -432,24 +467,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
-    <url>//post/fan-yi-005.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-
-</div>]]></content>
-      <categories>
-        <category>翻译</category>
-      </categories>
-      <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
     <url>//post/fan-yi-006.html</url>
     <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
@@ -464,23 +481,6 @@
         <tag>翻译</tag>
         <tag>JomaTech</tag>
         <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三星G40B使用报告</title>
-    <url>//post/samsung-g40b-test.html</url>
-    <content><![CDATA[<p><img src="/../images/samsingg40b/001.jpg" alt="SAMSUNG G40B"></p>
-<h3 id="基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数"><a href="#基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数" class="headerlink" title="基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数"></a>基本参数不再多说，本站已与百度合作，使用百度搜索即可了解详细参数</h3><h3 id="本篇文章就显示器的使用体验方面进行介绍"><a href="#本篇文章就显示器的使用体验方面进行介绍" class="headerlink" title="本篇文章就显示器的使用体验方面进行介绍"></a>本篇文章就显示器的使用体验方面进行介绍</h3><span id="more"></span>
-
-<h4 id="优点："><a href="#优点：" class="headerlink" title="优点："></a>优点：</h4><p>  -束线孔位<br>  -稳定的升降支架<br>  -较为好用的OSD菜单和OSD控制按钮<br>  -DC调光，对眼睛友好<br>  -色彩方面属于游戏显示器中较好梯队<br>  -Nano ips中较快的响应时间<br>  -不糊弄的护眼模式<br>  -不抢别人位置的插头</p>
-<h4 id="缺点："><a href="#缺点：" class="headerlink" title="缺点："></a>缺点：</h4><p>  -显示器待机时底部蓝色闪光无法关闭<br>  -USB接口只能负责固件升级，暂未发现其他功能<br>  -接口处易卡视频传输线（是线弯折，但不太严重）<br>  -耳机孔比较难插入，位置刁钻<br>  -设置更快及以上响应时间时会出现比较严重的过冲现象，网页滚动时会出现字体周围泛白拖影<br>  -变宽较大，可以跑马<br>  -支架脚垫摩擦力较差<br>  -OSD按钮好用但是有点松动</p>
-<h3 id="总体来说没什么大问题，中规中矩的产品"><a href="#总体来说没什么大问题，中规中矩的产品" class="headerlink" title="总体来说没什么大问题，中规中矩的产品"></a>总体来说没什么大问题，中规中矩的产品</h3><h3 id="虽然面板用的是LG-但是三星调教的不错"><a href="#虽然面板用的是LG-但是三星调教的不错" class="headerlink" title="虽然面板用的是LG 但是三星调教的不错"></a>虽然面板用的是LG 但是三星调教的不错</h3><h3 id="比同样技术规格的华硕等产品更便宜"><a href="#比同样技术规格的华硕等产品更便宜" class="headerlink" title="比同样技术规格的华硕等产品更便宜"></a>比同样技术规格的华硕等产品更便宜</h3><h3 id="只有一年质保，还得多用一段时间再来评价"><a href="#只有一年质保，还得多用一段时间再来评价" class="headerlink" title="只有一年质保，还得多用一段时间再来评价"></a>只有一年质保，还得多用一段时间再来评价</h3>]]></content>
-      <categories>
-        <category>评测</category>
-      </categories>
-      <tags>
-        <tag>评测</tag>
-        <tag>显示器</tag>
       </tags>
   </entry>
 </search>
