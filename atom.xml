@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>xyz_blog</title>
   
-  <subtitle>技术闲谈</subtitle>
+  <subtitle>闲谈技术的XYZ</subtitle>
   <link href="https://knxyz.xyz/atom.xml" rel="self"/>
   
   <link href="https://knxyz.xyz/"/>
