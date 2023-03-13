@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>xyz_blog</title>
   
-  <subtitle>啥都想说，啥也说不出来</subtitle>
+  <subtitle>技术闲谈</subtitle>
   <link href="https://knxyz.xyz/atom.xml" rel="self"/>
   
   <link href="https://knxyz.xyz/"/>
