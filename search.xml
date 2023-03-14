@@ -30,35 +30,6 @@
       </tags>
   </entry>
   <entry>
-    <title>博客分类规则</title>
-    <url>//post/beizhu.html</url>
-    <content><![CDATA[<p>I ：闲谈</p>
-<p>II：折腾</p>
-<p>III：笔记</p>
-<p>IV：评测</p>
-<p>V：读书笔记</p>
-<p>VI：文章摘录</p>
-]]></content>
-      <tags>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>搭建Onedrive公共云盘</title>
-    <url>//post/onedrive-notice.html</url>
-    <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><span id="more"></span>
-<p>在逛gai的时候发现浅笑安然的博客（<a href="https://sianx.com/">https://sianx.com</a> ）<br><br><img src="/../images/onedrive_notice/001.png" alt="浅笑安然のonedrive云盘"><br>其博客中工具菜单里的我的云盘，没想到能直接访问onedrive云盘并且下载文件<br>只要将onedrive上传文件夹中指定一个公共文件夹<br>再用Onedrive-vercel-index（<a href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a> ）<br><br><img src="/../images/onedrive_notice/002.png" alt="github project"><br>进行一个Fork，根据官方文档用vercel进行部署就完成了<br><br>回想起来vercel这个网站还蛮良心的，hexo加速和域名解析都是在这个上面搞的，真不戳：）<br><br><img src="/../images/onedrive_notice/003.png" alt="vercal"><br>最后放个成果图↓<br><img src="/../images/onedrive_notice/004.png" alt="建好的公共云盘"></p>
-]]></content>
-      <categories>
-        <category>折腾</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
-        <tag>云盘</tag>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VI_001——王垠博客摘录</title>
     <url>//post/vi-001.html</url>
     <content><![CDATA[<br> 
@@ -432,20 +403,32 @@
       </tags>
   </entry>
   <entry>
-    <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
-    <url>//post/fan-yi-006.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-</div>]]></content>
+    <title>博客分类规则</title>
+    <url>//post/beizhu.html</url>
+    <content><![CDATA[<p>I ：闲谈</p>
+<p>II：折腾</p>
+<p>III：笔记</p>
+<p>IV：评测</p>
+<p>V：读书笔记</p>
+<p>VI：文章摘录</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>搭建Onedrive公共云盘</title>
+    <url>//post/onedrive-notice.html</url>
+    <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><span id="more"></span>
+<p>在逛gai的时候发现浅笑安然的博客（<a href="https://sianx.com/">https://sianx.com</a> ）<br><br><img src="/../images/onedrive_notice/001.png" alt="浅笑安然のonedrive云盘"><br>其博客中工具菜单里的我的云盘，没想到能直接访问onedrive云盘并且下载文件<br>只要将onedrive上传文件夹中指定一个公共文件夹<br>再用Onedrive-vercel-index（<a href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a> ）<br><br><img src="/../images/onedrive_notice/002.png" alt="github project"><br>进行一个Fork，根据官方文档用vercel进行部署就完成了<br><br>回想起来vercel这个网站还蛮良心的，hexo加速和域名解析都是在这个上面搞的，真不戳：）<br><br><img src="/../images/onedrive_notice/003.png" alt="vercal"><br>最后放个成果图↓<br><img src="/../images/onedrive_notice/004.png" alt="建好的公共云盘"></p>
+]]></content>
       <categories>
-        <category>翻译</category>
+        <category>折腾</category>
       </categories>
       <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
+        <tag>技术</tag>
+        <tag>云盘</tag>
+        <tag>记录</tag>
       </tags>
   </entry>
   <entry>
@@ -471,6 +454,23 @@
     <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+
+</div>]]></content>
+      <categories>
+        <category>翻译</category>
+      </categories>
+      <tags>
+        <tag>熟肉</tag>
+        <tag>翻译</tag>
+        <tag>JomaTech</tag>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
+    <url>//post/fan-yi-006.html</url>
+    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 </div>]]></content>
       <categories>
