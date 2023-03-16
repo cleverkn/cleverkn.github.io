@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>XYZ_Blog</title>
+  <title>xyz_blog</title>
   
   <subtitle>闲谈技术的XYZ</subtitle>
   <link href="https://knxyz.xyz/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://knxyz.xyz/</id>
   
   <author>
-    <name>XYZ</name>
+    <name>xyz</name>
     
   </author>
   
