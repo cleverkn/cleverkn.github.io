@@ -2719,7 +2719,7 @@ mark.search-keyword {
 .main-inner {
   border-radius: initial;
   box-sizing: border-box;
-  width: calc(100% - 332px);
+  width: calc(100% - 322px);
 }
 @media (max-width: 991px) {
   .main-inner {
@@ -2728,7 +2728,7 @@ mark.search-keyword {
   }
 }
 .footer-inner {
-  padding-left: 332px;
+  padding-left: 322px;
 }
 @media (max-width: 991px) {
   .footer-inner {
@@ -2738,7 +2738,7 @@ mark.search-keyword {
   }
 }
 .column {
-  width: 320px;
+  width: 310px;
 }
 @media (max-width: 991px) {
   .column {
