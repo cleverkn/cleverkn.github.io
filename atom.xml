@@ -6,7 +6,7 @@
   <link href="https://knxyz.xyz/atom.xml" rel="self"/>
   
   <link href="https://knxyz.xyz/"/>
-  <updated>2023-03-16T08:05:28.008Z</updated>
+  <updated>2023-03-16T10:07:54.907Z</updated>
   <id>https://knxyz.xyz/</id>
   
   <author>
@@ -21,18 +21,10 @@
     <link href="https://knxyz.xyz/post/i-001-monitor-gaming.html"/>
     <id>https://knxyz.xyz/post/i-001-monitor-gaming.html</id>
     <published>2023-03-13T14:01:38.000Z</published>
-    <updated>2023-03-16T08:05:28.008Z</updated>
+    <updated>2023-03-16T10:07:54.907Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-
-&lt;p&gt;因为长期低刷新率 60hz 屏幕下，玩 CSGO、瓦兰特 等竞技性射击游戏，明明我先看见对手，却被对面先手夺我命。所以觉得自己的屏幕刷新率比对手低，是被 kill</summary>
-        
-      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;用 60hz 等低刷新率屏幕玩游戏时，只要游戏画面大幅度移动就会出现模糊和拖影，眼睛像蒙了灰一样啥都看不清，进而影响游戏操作。屏幕生成帧和游戏刷新率会影响游戏的操作吗？帧数和刷新率一定是越高越好吗？哪个更重要？条件有限的情况下提升哪项“性价比“更高？本文谈谈我对游戏帧率和刷新率的看法。本篇文章不是“游戏教学”，而是以玩家的视角探究显示技术和游戏的关系，内容略微枯燥，不过作为玩家视角来说还是有些意义和参考价值的；）&lt;/p&gt;</summary>
     
     
     
