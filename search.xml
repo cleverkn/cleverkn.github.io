@@ -32,20 +32,6 @@
       </tags>
   </entry>
   <entry>
-    <title>博客分类规则</title>
-    <url>//post/beizhu.html</url>
-    <content><![CDATA[<p>I ：闲谈</p>
-<p>II：折腾</p>
-<p>III：笔记</p>
-<p>IV：评测</p>
-<p>V：读书笔记</p>
-<p>VI：文章摘录</p>
-]]></content>
-      <tags>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>搭建Onedrive公共云盘</title>
     <url>//post/onedrive-notice.html</url>
     <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><span id="more"></span>
@@ -75,6 +61,55 @@
       <tags>
         <tag>评测</tag>
         <tag>显示器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
+    <url>//post/fan-yi-005.html</url>
+    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+</div>]]></content>
+      <categories>
+        <category>翻译</category>
+      </categories>
+      <tags>
+        <tag>熟肉</tag>
+        <tag>翻译</tag>
+        <tag>JomaTech</tag>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
+    <url>//post/fan-yi-006.html</url>
+    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+</div>]]></content>
+      <categories>
+        <category>翻译</category>
+      </categories>
+      <tags>
+        <tag>熟肉</tag>
+        <tag>翻译</tag>
+        <tag>JomaTech</tag>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客分类规则</title>
+    <url>//post/beizhu.html</url>
+    <content><![CDATA[<p>I ：闲谈</p>
+<p>II：折腾</p>
+<p>III：笔记</p>
+<p>IV：评测</p>
+<p>V：读书笔记</p>
+<p>VI：文章摘录</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
@@ -448,41 +483,6 @@
       </categories>
       <tags>
         <tag>摘录 王垠</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【熟肉/Joma Tech】当你想和同事搭话却不知道说什么</title>
-    <url>//post/fan-yi-005.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=523460051&amp;bvid=BV1TM411B7Xd&amp;cid=982697648&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-
-</div>]]></content>
-      <categories>
-        <category>翻译</category>
-      </categories>
-      <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【熟肉/Joma Tech】前谷歌程序员锐评互联网公司裁员事件</title>
-    <url>//post/fan-yi-006.html</url>
-    <content><![CDATA[<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=436555942&amp;bvid=BV1xj411K7fa&amp;cid=998299982&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-</div>]]></content>
-      <categories>
-        <category>翻译</category>
-      </categories>
-      <tags>
-        <tag>熟肉</tag>
-        <tag>翻译</tag>
-        <tag>JomaTech</tag>
-        <tag>搬运</tag>
       </tags>
   </entry>
 </search>
