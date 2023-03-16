@@ -46,7 +46,7 @@
 
 
 
-
+<link rel="dns-prefetch" href="waline.knxyz.xyz">
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
@@ -126,7 +126,7 @@
         
   
   <aside class="sidebar">
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=380 height=110 src="//music.163.com/outchain/player?type=0&id=7750701068&auto=0&height=90"></iframe>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=293 height=318 src="//music.163.com/outchain/player?type=0&id=7750701068&auto=0&height=430"></iframe>
 
     <div class="sidebar-inner sidebar-overview-active">
       <ul class="sidebar-nav">
@@ -245,6 +245,7 @@
     
 
 
+    <div class="comments" id="waline"></div>
 </div>
   </main>
 
@@ -299,6 +300,17 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
   <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://knxyz.xyz/categories/"}</script>
   <script src="/js/third-party/quicklink.js"></script>
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-cn","enable":true,"serverURL":"waline.knxyz.xyz","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"文明、文明、还是tmd文明！","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":[],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/categories/"}</script>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.waline.el).then(() =>
+    NexT.utils.getScript(CONFIG.waline.libUrl, { condition: window.Waline })
+  ).then(() => 
+    Waline.init(Object.assign({}, CONFIG.waline,{ el: document.querySelector(CONFIG.waline.el) }))
+  );
+});
+</script>
 
 </body>
 </html>
