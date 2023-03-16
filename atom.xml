@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>xyz_blog</title>
+  <title>XYZ_Blog</title>
   
   <subtitle>闲谈技术的XYZ</subtitle>
   <link href="https://knxyz.xyz/atom.xml" rel="self"/>
@@ -39,9 +39,9 @@
     <category term="技术闲谈" scheme="https://knxyz.xyz/categories/%E6%8A%80%E6%9C%AF%E9%97%B2%E8%B0%88/"/>
     
     
-    <category term="闲谈" scheme="https://knxyz.xyz/tags/%E9%97%B2%E8%B0%88/"/>
-    
     <category term="技术" scheme="https://knxyz.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="闲谈" scheme="https://knxyz.xyz/tags/%E9%97%B2%E8%B0%88/"/>
     
   </entry>
   
@@ -79,9 +79,9 @@
     <category term="读书笔记" scheme="https://knxyz.xyz/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="杂言" scheme="https://knxyz.xyz/tags/%E6%9D%82%E8%A8%80/"/>
-    
     <category term="闲谈" scheme="https://knxyz.xyz/tags/%E9%97%B2%E8%B0%88/"/>
+    
+    <category term="杂言" scheme="https://knxyz.xyz/tags/%E6%9D%82%E8%A8%80/"/>
     
   </entry>
   
