@@ -32,6 +32,20 @@
       </tags>
   </entry>
   <entry>
+    <title>博客分类规则</title>
+    <url>//post/beizhu.html</url>
+    <content><![CDATA[<p>I ：闲谈</p>
+<p>II：折腾</p>
+<p>III：笔记</p>
+<p>IV：评测</p>
+<p>V：读书笔记</p>
+<p>VI：文章摘录</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>三星G40B使用报告</title>
     <url>//post/samsung-g40b-test.html</url>
     <content><![CDATA[<p><img data-src="/../images/samsingg40b/001.jpg" alt="SAMSUNG G40B"></p>
@@ -46,20 +60,6 @@
       <tags>
         <tag>评测</tag>
         <tag>显示器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客分类规则</title>
-    <url>//post/beizhu.html</url>
-    <content><![CDATA[<p>I ：闲谈</p>
-<p>II：折腾</p>
-<p>III：笔记</p>
-<p>IV：评测</p>
-<p>V：读书笔记</p>
-<p>VI：文章摘录</p>
-]]></content>
-      <tags>
-        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
