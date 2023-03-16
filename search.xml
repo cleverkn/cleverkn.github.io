@@ -17,6 +17,20 @@
       </tags>
   </entry>
   <entry>
+    <title>博客分类规则</title>
+    <url>//post/beizhu.html</url>
+    <content><![CDATA[<p>I ：闲谈</p>
+<p>II：折腾</p>
+<p>III：笔记</p>
+<p>IV：评测</p>
+<p>V：读书笔记</p>
+<p>VI：文章摘录</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>搭建Onedrive公共云盘</title>
     <url>//post/onedrive-notice.html</url>
     <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><span id="more"></span>
@@ -29,20 +43,6 @@
         <tag>技术</tag>
         <tag>云盘</tag>
         <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客分类规则</title>
-    <url>//post/beizhu.html</url>
-    <content><![CDATA[<p>I ：闲谈</p>
-<p>II：折腾</p>
-<p>III：笔记</p>
-<p>IV：评测</p>
-<p>V：读书笔记</p>
-<p>VI：文章摘录</p>
-]]></content>
-      <tags>
-        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
