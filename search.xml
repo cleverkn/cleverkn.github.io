@@ -1,37 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>显示技术与游戏</title>
-    <url>//post/i-001-monitor-gaming.html</url>
-    <content><![CDATA[<span id="more"></span>
-
-<p>因为长期低刷新率 60hz 屏幕下，玩 CSGO、瓦兰特 等竞技性射击游戏，明明我先看见对手，却被对面先手夺我命。所以觉得自己的屏幕刷新率比对手低，是被 kill 的主要原因。在这之后又体验了120hz、240hz显示器，带给了我不同的感受。所以屏幕刷新率和游戏生成帧真的会影响游戏的操作吗？刷新率和帧数一定是越高越好吗？当然前面这种被“反杀”的原因包括其他因素比如网络延迟等，不作为此次的讨论范围，本篇文章仅对帧率和刷新率对游戏操作造成的影响进行探究。本篇文章不是“游戏教学”，而是以一名玩家的视角谈谈显示技术和游戏的关系，内容略微枯燥，不过作为一名玩家的视角来说还是有意义和参考价值的。</p>
-<h2 id="画面的产生——帧率（fps）"><a href="#画面的产生——帧率（fps）" class="headerlink" title="画面的产生——帧率（fps）"></a>画面的产生——帧率（fps）</h2><p>帧率及一秒内生成的画面数量，单位时间内生成的画面越多，画面也就更流畅。很早以前，胶片价格非常的昂贵<del>虽然现在也很贵</del>，所以为了同时满足观赏度和成本的需求，发现以24帧每秒的帧速率是最合适的。这也是为什么很多游戏主机上架的游戏大多都能运行30fps及以上的帧率，以保证画面的基础流畅度和游戏可玩性。</p>
-]]></content>
-      <categories>
-        <category>技术闲谈</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
-        <tag>闲谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>先开坑再填坑</title>
-    <url>//post/v-001.html</url>
-    <content><![CDATA[<p>就此篇文章开一个读书笔记的坑，激励自己多多看书</p>
-<p>不是以一篇读书笔记开坑而是先放话，细想也挺搞笑的哈哈哈</p>
-<p>不过不管怎么着也算是扣了个大洞，希望以后的自己能填平了，甚至是盖个土坯房：）</p>
-]]></content>
-      <categories>
-        <category>读书笔记</category>
-      </categories>
-      <tags>
-        <tag>闲谈</tag>
-        <tag>杂言</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VI_001——王垠博客摘录</title>
     <url>//post/vi-001.html</url>
     <content><![CDATA[<br> 
@@ -405,6 +374,51 @@
       </tags>
   </entry>
   <entry>
+    <title>显示技术与游戏</title>
+    <url>//post/i-001-monitor-gaming.html</url>
+    <content><![CDATA[<span id="more"></span>
+
+<p>因为长期低刷新率 60hz 屏幕下，玩 CSGO、瓦兰特 等竞技性射击游戏，明明我先看见对手，却被对面先手夺我命。所以觉得自己的屏幕刷新率比对手低，是被 kill 的主要原因。在这之后又体验了120hz、240hz显示器，带给了我不同的感受。所以屏幕刷新率和游戏生成帧真的会影响游戏的操作吗？刷新率和帧数一定是越高越好吗？当然前面这种被“反杀”的原因包括其他因素比如网络延迟等，不作为此次的讨论范围，本篇文章仅对帧率和刷新率对游戏操作造成的影响进行探究。本篇文章不是“游戏教学”，而是以一名玩家的视角谈谈显示技术和游戏的关系，内容略微枯燥，不过作为一名玩家的视角来说还是有意义和参考价值的。</p>
+<h2 id="画面的产生——帧率（fps）"><a href="#画面的产生——帧率（fps）" class="headerlink" title="画面的产生——帧率（fps）"></a>画面的产生——帧率（fps）</h2><p>帧率及一秒内生成的画面数量，单位时间内生成的画面越多，画面也就更流畅。很早以前，胶片价格非常的昂贵<del>虽然现在也很贵</del>，所以为了同时满足观赏度和成本的需求，发现以24帧每秒的帧速率是最合适的。这也是为什么很多游戏主机上架的游戏大多都能运行30fps及以上的帧率，以保证画面的基础流畅度和游戏可玩性。</p>
+]]></content>
+      <categories>
+        <category>技术闲谈</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+        <tag>闲谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客分类规则</title>
+    <url>//post/beizhu.html</url>
+    <content><![CDATA[<p>I ：闲谈</p>
+<p>II：折腾</p>
+<p>III：笔记</p>
+<p>IV：评测</p>
+<p>V：读书笔记</p>
+<p>VI：文章摘录</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>先开坑再填坑</title>
+    <url>//post/v-001.html</url>
+    <content><![CDATA[<p>就此篇文章开一个读书笔记的坑，激励自己多多看书</p>
+<p>不是以一篇读书笔记开坑而是先放话，细想也挺搞笑的哈哈哈</p>
+<p>不过不管怎么着也算是扣了个大洞，希望以后的自己能填平了，甚至是盖个土坯房：）</p>
+]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>闲谈</tag>
+        <tag>杂言</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>搭建Onedrive公共云盘</title>
     <url>//post/onedrive-notice.html</url>
     <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><span id="more"></span>
@@ -434,20 +448,6 @@
       <tags>
         <tag>评测</tag>
         <tag>显示器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客分类规则</title>
-    <url>//post/beizhu.html</url>
-    <content><![CDATA[<p>I ：闲谈</p>
-<p>II：折腾</p>
-<p>III：笔记</p>
-<p>IV：评测</p>
-<p>V：读书笔记</p>
-<p>VI：文章摘录</p>
-]]></content>
-      <tags>
-        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
