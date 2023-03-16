@@ -31,21 +31,6 @@
       </tags>
   </entry>
   <entry>
-    <title>搭建Onedrive公共云盘</title>
-    <url>//post/onedrive-notice.html</url>
-    <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><span id="more"></span>
-<p>在逛gai的时候发现浅笑安然的博客（<a href="https://sianx.com/">https://sianx.com</a> ）<br><br><img src="/../images/onedrive_notice/001.png" alt="浅笑安然のonedrive云盘"><br>其博客中工具菜单里的我的云盘，没想到能直接访问onedrive云盘并且下载文件<br>只要将onedrive上传文件夹中指定一个公共文件夹<br>再用Onedrive-vercel-index（<a href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a> ）<br><br><img src="/../images/onedrive_notice/002.png" alt="github project"><br>进行一个Fork，根据官方文档用vercel进行部署就完成了<br><br>回想起来vercel这个网站还蛮良心的，hexo加速和域名解析都是在这个上面搞的，真不戳：）<br><br><img src="/../images/onedrive_notice/003.png" alt="vercal"><br>最后放个成果图↓<br><img src="/../images/onedrive_notice/004.png" alt="建好的公共云盘"></p>
-]]></content>
-      <categories>
-        <category>折腾</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
-        <tag>云盘</tag>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>三星G40B使用报告</title>
     <url>//post/samsung-g40b-test.html</url>
     <content><![CDATA[<p><img src="/../images/samsingg40b/001.jpg" alt="SAMSUNG G40B"></p>
@@ -60,6 +45,21 @@
       <tags>
         <tag>评测</tag>
         <tag>显示器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>搭建Onedrive公共云盘</title>
+    <url>//post/onedrive-notice.html</url>
+    <content><![CDATA[<h3 id="个人公开public-onedrive云盘"><a href="#个人公开public-onedrive云盘" class="headerlink" title="个人公开public onedrive云盘"></a>个人公开public onedrive云盘</h3><h3 id="域名-onedrive-knyxz-xyz"><a href="#域名-onedrive-knyxz-xyz" class="headerlink" title="域名: onedrive.knyxz.xyz"></a>域名: onedrive.knyxz.xyz</h3><span id="more"></span>
+<p>在逛gai的时候发现浅笑安然的博客（<a href="https://sianx.com/">https://sianx.com</a> ）<br><br><img src="/../images/onedrive_notice/001.png" alt="浅笑安然のonedrive云盘"><br>其博客中工具菜单里的我的云盘，没想到能直接访问onedrive云盘并且下载文件<br>只要将onedrive上传文件夹中指定一个公共文件夹<br>再用Onedrive-vercel-index（<a href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a> ）<br><br><img src="/../images/onedrive_notice/002.png" alt="github project"><br>进行一个Fork，根据官方文档用vercel进行部署就完成了<br><br>回想起来vercel这个网站还蛮良心的，hexo加速和域名解析都是在这个上面搞的，真不戳：）<br><br><img src="/../images/onedrive_notice/003.png" alt="vercal"><br>最后放个成果图↓<br><img src="/../images/onedrive_notice/004.png" alt="建好的公共云盘"></p>
+]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+        <tag>云盘</tag>
+        <tag>记录</tag>
       </tags>
   </entry>
   <entry>
