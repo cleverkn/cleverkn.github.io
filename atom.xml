@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>宇宙星辰</title>
+  <icon>https://www.gravatar.com/avatar/a97ca4d775c13d5dcdf10be0dcffa0c1</icon>
+  <subtitle>燕雀安知鸿鹄之志</subtitle>
+  <link href="https://www.kogami.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.kogami.cn/"/>
+  <updated>2023-09-10T14:00:07.856Z</updated>
+  <id>https://www.kogami.cn/</id>
+  
+  <author>
+    <name>宇宙星辰</name>
+    <email>gaoyc37@outlook.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《骑万里路》 北京-天津</title>
+    <link href="https://www.kogami.cn/post/0010.html"/>
+    <id>https://www.kogami.cn/post/0010.html</id>
+    <published>2023-08-29T06:05:15.000Z</published>
+    <updated>2023-09-10T14:00:07.856Z</updated>
+    
+    
+    <summary type="html">250KM中途骑行</summary>
+    
+    
+    
+    <category term="骑万里路" scheme="https://www.kogami.cn/categories/%E9%AA%91%E4%B8%87%E9%87%8C%E8%B7%AF/"/>
+    
+    
+    <category term="骑行" scheme="https://www.kogami.cn/tags/%E9%AA%91%E8%A1%8C/"/>
+    
+    <category term="一人一车" scheme="https://www.kogami.cn/tags/%E4%B8%80%E4%BA%BA%E4%B8%80%E8%BD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>番剧 《黄金小子》</title>
+    <link href="https://www.kogami.cn/post/0009.html"/>
+    <id>https://www.kogami.cn/post/0009.html</id>
+    <published>2023-08-16T04:05:55.000Z</published>
+    <updated>2023-09-08T15:44:54.256Z</updated>
+    
+    
+    <summary type="html">《黄金小子》</summary>
+    
+    
+    
+    <category term="影评" scheme="https://www.kogami.cn/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="动漫" scheme="https://www.kogami.cn/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="复古" scheme="https://www.kogami.cn/tags/%E5%A4%8D%E5%8F%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内蒙之行</title>
+    <link href="https://www.kogami.cn/post/0008.html"/>
+    <id>https://www.kogami.cn/post/0008.html</id>
+    <published>2023-08-09T15:16:22.000Z</published>
+    <updated>2023-09-08T14:10:34.237Z</updated>
+    
+    
+    <summary type="html">存档</summary>
+    
+    
+    
+    <category term="行万里路" scheme="https://www.kogami.cn/categories/%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/"/>
+    
+    
+    <category term="旅游" scheme="https://www.kogami.cn/tags/%E6%97%85%E6%B8%B8/"/>
+    
+    <category term="内蒙古" scheme="https://www.kogami.cn/tags/%E5%86%85%E8%92%99%E5%8F%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搬运油管+翻译打轴个人制作全流程</title>
+    <link href="https://www.kogami.cn/post/0007.html"/>
+    <id>https://www.kogami.cn/post/0007.html</id>
+    <published>2023-07-08T09:29:46.000Z</published>
+    <updated>2023-09-08T14:31:43.974Z</updated>
+    
+    
+    <summary type="html">如何烤肉</summary>
+    
+    
+    
+    <category term="技术" scheme="https://www.kogami.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="字幕组" scheme="https://www.kogami.cn/tags/%E5%AD%97%E5%B9%95%E7%BB%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于Hexo部署の坑</title>
+    <link href="https://www.kogami.cn/post/0005.html"/>
+    <id>https://www.kogami.cn/post/0005.html</id>
+    <published>2023-07-08T07:01:38.000Z</published>
+    <updated>2023-09-04T15:04:42.623Z</updated>
+    
+    
+    <summary type="html">hexo常规报错非常规解决方法</summary>
+    
+    
+    
+    <category term="BUGS" scheme="https://www.kogami.cn/categories/BUGS/"/>
+    
+    
+    <category term="技术" scheme="https://www.kogami.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="bug" scheme="https://www.kogami.cn/tags/bug/"/>
+    
+    <category term="hexo" scheme="https://www.kogami.cn/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>显示技术与游戏</title>
+    <link href="https://www.kogami.cn/post/i-001-monitor-gaming.html"/>
+    <id>https://www.kogami.cn/post/i-001-monitor-gaming.html</id>
+    <published>2023-03-13T14:01:38.000Z</published>
+    <updated>2023-09-08T15:28:24.799Z</updated>
+    
+    
+    <summary type="html">浅谈</summary>
+    
+    
+    
+    <category term="技术" scheme="https://www.kogami.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://www.kogami.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="游戏" scheme="https://www.kogami.cn/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>三星G40B使用报告</title>
+    <link href="https://www.kogami.cn/post/samsung-g40b-test.html"/>
+    <id>https://www.kogami.cn/post/samsung-g40b-test.html</id>
+    <published>2023-03-10T04:42:29.000Z</published>
+    <updated>2023-09-08T14:29:59.568Z</updated>
+    
+    
+    <summary type="html">开箱</summary>
+    
+    
+    
+    
+    <category term="显示器" scheme="https://www.kogami.cn/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
+    
+    <category term="设备" scheme="https://www.kogami.cn/tags/%E8%AE%BE%E5%A4%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建Onedrive公共云盘</title>
+    <link href="https://www.kogami.cn/post/onedrive-notice.html"/>
+    <id>https://www.kogami.cn/post/onedrive-notice.html</id>
+    <published>2023-03-09T12:48:52.000Z</published>
+    <updated>2023-09-04T15:10:29.072Z</updated>
+    
+    
+    <summary type="html">搭建个人Onedrive云盘流水账</summary>
+    
+    
+    
+    <category term="技术" scheme="https://www.kogami.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://www.kogami.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="云盘" scheme="https://www.kogami.cn/tags/%E4%BA%91%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用30年前的拍子打球是什么体验？</title>
+    <link href="https://www.kogami.cn/post/0004.html"/>
+    <id>https://www.kogami.cn/post/0004.html</id>
+    <published>2022-11-23T14:06:03.000Z</published>
+    <updated>2023-09-04T15:03:55.750Z</updated>
+    
+    
+    <summary type="html">YONEX TI2</summary>
+    
+    
+    
+    <category term="运动" scheme="https://www.kogami.cn/categories/%E8%BF%90%E5%8A%A8/"/>
+    
+    
+    <category term="羽毛球" scheme="https://www.kogami.cn/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,19 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>@font-face {
+    font-family: "iconfont"; /* Project id 4081274 */
+    src: url('//at.alicdn.com/t/c/font_4081274_t43gq26rgvd.woff2?t=1684768698496') format('woff2'),
+         url('//at.alicdn.com/t/c/font_4081274_t43gq26rgvd.woff?t=1684768698496') format('woff'),
+         url('//at.alicdn.com/t/c/font_4081274_t43gq26rgvd.ttf?t=1684768698496') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-wangyiyunyinle:before {
+    content: "\e600";
+  }
+  
