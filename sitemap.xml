@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.kogami.cn/about/index.html</loc>
+    
+    <lastmod>2023-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kogami.cn/post/0010.html</loc>
     
     <lastmod>2023-09-22</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://www.kogami.cn/post/i-001-monitor-gaming.html</loc>
-    
-    <lastmod>2023-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kogami.cn/about/index.html</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -295,14 +295,14 @@
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.kogami.cn/tags/%E4%BA%91%E7%9B%98/</loc>
     <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/tags/%E4%BA%91%E7%9B%98/</loc>
+    <loc>https://www.kogami.cn/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

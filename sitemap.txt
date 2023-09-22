@@ -1,10 +1,10 @@
+https://www.kogami.cn/about/index.html
 https://www.kogami.cn/post/0010.html
 https://www.kogami.cn/messageboard/index.html
 https://www.kogami.cn/archives/index.html
 https://www.kogami.cn/timeline/index.html
 https://www.kogami.cn/post/0009.html
 https://www.kogami.cn/post/i-001-monitor-gaming.html
-https://www.kogami.cn/about/index.html
 https://www.kogami.cn/post/0007.html
 https://www.kogami.cn/post/samsung-g40b-test.html
 https://www.kogami.cn/post/0008.html
@@ -33,8 +33,8 @@ https://www.kogami.cn/tags/%E5%8A%A8%E6%BC%AB/
 https://www.kogami.cn/tags/%E5%A4%8D%E5%8F%A4/
 https://www.kogami.cn/tags/%E9%AA%91%E8%A1%8C/
 https://www.kogami.cn/tags/%E4%B8%80%E4%BA%BA%E4%B8%80%E8%BD%A6/
-https://www.kogami.cn/tags/%E6%B8%B8%E6%88%8F/
 https://www.kogami.cn/tags/%E4%BA%91%E7%9B%98/
+https://www.kogami.cn/tags/%E6%B8%B8%E6%88%8F/
 https://www.kogami.cn/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/
 https://www.kogami.cn/tags/%E8%AE%BE%E5%A4%87/
 https://www.kogami.cn/categories/%E8%BF%90%E5%8A%A8/
