@@ -216,21 +216,28 @@
   </url>
   
   <url>
+    <loc>https://www.kogami.cn/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kogami.cn/tags/bug/</loc>
+    <lastmod>2023-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kogami.cn/tags/hexo/</loc>
+    <lastmod>2023-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kogami.cn/tags/%E5%AD%97%E5%B9%95%E7%BB%84/</loc>
-    <lastmod>2023-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kogami.cn/tags/%E9%AA%91%E8%A1%8C/</loc>
-    <lastmod>2023-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kogami.cn/tags/%E4%B8%80%E4%BA%BA%E4%B8%80%E8%BD%A6/</loc>
     <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -251,7 +258,14 @@
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://www.kogami.cn/tags/%E9%AA%91%E8%A1%8C/</loc>
+    <lastmod>2023-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kogami.cn/tags/%E4%B8%80%E4%BA%BA%E4%B8%80%E8%BD%A6/</loc>
     <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -285,24 +299,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://www.kogami.cn/tags/bug/</loc>
-    <lastmod>2023-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kogami.cn/tags/hexo/</loc>
-    <lastmod>2023-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://www.kogami.cn/categories/%E8%BF%90%E5%8A%A8/</loc>
+    <lastmod>2023-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kogami.cn/categories/BUGS/</loc>
     <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -316,13 +323,6 @@
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/categories/%E9%AA%91%E4%B8%87%E9%87%8C%E8%B7%AF/</loc>
-    <lastmod>2023-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kogami.cn/categories/%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/</loc>
     <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -330,7 +330,7 @@
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/categories/BUGS/</loc>
+    <loc>https://www.kogami.cn/categories/%E9%AA%91%E4%B8%87%E9%87%8C%E8%B7%AF/</loc>
     <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
