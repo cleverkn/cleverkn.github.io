@@ -2070,7 +2070,7 @@ pre code {
 }
 @media (min-width: 992px) {
   .post-body {
-    text-align: center;
+    text-align: justify;
   }
 }
 @media (max-width: 991px) {
@@ -3009,7 +3009,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #c76bf7;
+  background: #585cff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3064,4 +3064,12 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
+}
+:root {
+  --waline-theme-color: #4b3425 !important;
+  --waline-active-color: #9c8877 !important;
+  --waline-bgcolor: #363636 !important;
+  --waline-info-color: #d3d3d3 !important;
+  --blockquote-color: #d3d3d3 !important;
+  --waline-color: #d3d3d3 !important;
 }

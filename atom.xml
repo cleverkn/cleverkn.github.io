@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>宇宙星辰</title>
   <icon>https://www.gravatar.com/avatar/a97ca4d775c13d5dcdf10be0dcffa0c1</icon>
-  <subtitle>燕雀安知鸿鹄之志</subtitle>
+  
   <link href="https://www.kogami.cn/atom.xml" rel="self"/>
   
   <link href="https://www.kogami.cn/"/>
-  <updated>2023-09-22T15:49:22.241Z</updated>
+  <updated>2023-11-08T14:09:36.966Z</updated>
   <id>https://www.kogami.cn/</id>
   
   <author>
-    <name>宇宙星辰</name>
+    <name>高宇辰</name>
     <email>gaoyc37@outlook.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>《骑万里路》 北京-天津 流水账游记</title>
+    <title>250KM中距离骑行</title>
     <link href="https://www.kogami.cn/post/0010.html"/>
     <id>https://www.kogami.cn/post/0010.html</id>
     <published>2023-08-29T06:05:15.000Z</published>
-    <updated>2023-09-22T15:49:22.241Z</updated>
+    <updated>2023-11-08T14:09:36.966Z</updated>
     
     
-    <summary type="html">250KM中途骑行</summary>
+    <summary type="html">&lt;p&gt;经过断断续续一个学期几次小短途骑行&lt;/p&gt;</summary>
     
     
     
@@ -42,10 +42,10 @@
     <link href="https://www.kogami.cn/post/0008.html"/>
     <id>https://www.kogami.cn/post/0008.html</id>
     <published>2023-08-09T15:16:22.000Z</published>
-    <updated>2023-09-08T14:10:34.237Z</updated>
+    <updated>2023-11-08T14:09:21.653Z</updated>
     
     
-    <summary type="html">存档</summary>
+    <summary type="html">&lt;p&gt;🧡地点：内蒙古 黄花沟景区附近&lt;/p&gt;</summary>
     
     
     
@@ -63,10 +63,10 @@
     <link href="https://www.kogami.cn/post/0007.html"/>
     <id>https://www.kogami.cn/post/0007.html</id>
     <published>2023-07-08T09:29:46.000Z</published>
-    <updated>2023-09-08T14:31:43.974Z</updated>
+    <updated>2023-11-08T14:08:54.372Z</updated>
     
     
-    <summary type="html">如何烤肉</summary>
+    <summary type="html">&lt;p&gt;之前在油管上看几个博主的视频觉得挺有意思的，不过纯生肉比较难懂，油管自带的AI翻译也不咋地&lt;/p&gt;</summary>
     
     
     
@@ -82,7 +82,7 @@
     <link href="https://www.kogami.cn/post/0005.html"/>
     <id>https://www.kogami.cn/post/0005.html</id>
     <published>2023-07-08T07:01:38.000Z</published>
-    <updated>2023-09-04T15:04:42.623Z</updated>
+    <updated>2023-11-08T14:08:25.304Z</updated>
     
     
     <summary type="html">hexo常规报错非常规解决方法</summary>
@@ -105,10 +105,10 @@
     <link href="https://www.kogami.cn/post/i-001-monitor-gaming.html"/>
     <id>https://www.kogami.cn/post/i-001-monitor-gaming.html</id>
     <published>2023-03-13T14:01:38.000Z</published>
-    <updated>2023-09-08T15:28:24.799Z</updated>
+    <updated>2023-11-08T14:12:30.222Z</updated>
     
     
-    <summary type="html">浅谈</summary>
+    <summary type="html">&lt;p&gt;用低刷新率屏幕玩游戏，如果游戏画面大幅度移动，会出现模糊和拖影&lt;/p&gt;</summary>
     
     
     
@@ -122,14 +122,14 @@
   </entry>
   
   <entry>
-    <title>三星G40B使用报告</title>
+    <title>三星G40B</title>
     <link href="https://www.kogami.cn/post/samsung-g40b-test.html"/>
     <id>https://www.kogami.cn/post/samsung-g40b-test.html</id>
     <published>2023-03-10T04:42:29.000Z</published>
-    <updated>2023-09-08T14:29:59.568Z</updated>
+    <updated>2023-11-08T14:11:15.125Z</updated>
     
     
-    <summary type="html">开箱</summary>
+    <summary type="html">&lt;h1 id=&quot;优点&quot;&gt;&lt;a href=&quot;#优点&quot; class=&quot;headerlink&quot; title=&quot;优点&quot;&gt;&lt;/a&gt;优点&lt;/h1&gt;&lt;p&gt;  -束线孔位&lt;br&gt;  -稳定的升降支架&lt;br&gt;&lt;/p&gt;</summary>
     
     
     
@@ -145,10 +145,10 @@
     <link href="https://www.kogami.cn/post/onedrive-notice.html"/>
     <id>https://www.kogami.cn/post/onedrive-notice.html</id>
     <published>2023-03-09T12:48:52.000Z</published>
-    <updated>2023-09-04T15:10:29.072Z</updated>
+    <updated>2023-11-08T14:10:22.237Z</updated>
     
     
-    <summary type="html">搭建个人Onedrive云盘流水账</summary>
+    <summary type="html">&lt;p&gt;个人公开public onedrive云盘&lt;/p&gt;</summary>
     
     
     
@@ -158,25 +158,6 @@
     <category term="技术" scheme="https://www.kogami.cn/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="云盘" scheme="https://www.kogami.cn/tags/%E4%BA%91%E7%9B%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用30年前的拍子打球是什么体验？</title>
-    <link href="https://www.kogami.cn/post/0004.html"/>
-    <id>https://www.kogami.cn/post/0004.html</id>
-    <published>2022-11-23T14:06:03.000Z</published>
-    <updated>2023-09-04T15:03:55.750Z</updated>
-    
-    
-    <summary type="html">YONEX TI2</summary>
-    
-    
-    
-    <category term="运动" scheme="https://www.kogami.cn/categories/%E8%BF%90%E5%8A%A8/"/>
-    
-    
-    <category term="羽毛球" scheme="https://www.kogami.cn/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/"/>
     
   </entry>
   
