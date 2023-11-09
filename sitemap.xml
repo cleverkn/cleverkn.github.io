@@ -228,20 +228,6 @@
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/tags/%E9%AA%91%E8%A1%8C/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kogami.cn/tags/%E4%B8%80%E4%BA%BA%E4%B8%80%E8%BD%A6/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kogami.cn/tags/%E6%97%85%E6%B8%B8/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,7 +242,14 @@
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.kogami.cn/tags/%E9%AA%91%E8%A1%8C/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kogami.cn/tags/%E4%B8%80%E4%BA%BA%E4%B8%80%E8%BD%A6/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -264,6 +257,13 @@
   
   <url>
     <loc>https://www.kogami.cn/tags/%E4%BA%91%E7%9B%98/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kogami.cn/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -300,14 +300,14 @@
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/categories/%E9%AA%91%E4%B8%87%E9%87%8C%E8%B7%AF/</loc>
+    <loc>https://www.kogami.cn/categories/%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.kogami.cn/categories/%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/</loc>
+    <loc>https://www.kogami.cn/categories/%E9%AA%91%E4%B8%87%E9%87%8C%E8%B7%AF/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
