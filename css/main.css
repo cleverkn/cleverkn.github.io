@@ -3009,7 +3009,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #e8ffd4;
+  background: #ff74ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3072,4 +3072,5 @@ body {
   --waline-info-color: #d3d3d3 !important;
   --blockquote-color: #d3d3d3 !important;
   --waline-color: #d3d3d3 !important;
+  --waline-border-color: #2f4f4f !important;
 }
