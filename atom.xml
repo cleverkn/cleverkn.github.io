@@ -6,7 +6,7 @@
   <link href="https://www.kogami.cn/atom.xml" rel="self"/>
   
   <link href="https://www.kogami.cn/"/>
-  <updated>2023-11-08T14:09:36.966Z</updated>
+  <updated>2023-11-15T12:12:44.409Z</updated>
   <id>https://www.kogami.cn/</id>
   
   <author>
@@ -17,11 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Test</title>
+    <link href="https://www.kogami.cn/post/test.html"/>
+    <id>https://www.kogami.cn/post/test.html</id>
+    <published>2023-11-15T11:53:17.000Z</published>
+    <updated>2023-11-15T12:12:44.409Z</updated>
+    
+    
+    <summary type="html">&lt;p align=&quot;center&quot;&gt;内容&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>250KM中距离骑行</title>
     <link href="https://www.kogami.cn/post/0010.html"/>
     <id>https://www.kogami.cn/post/0010.html</id>
     <published>2023-08-29T06:05:15.000Z</published>
-    <updated>2023-11-08T14:09:36.966Z</updated>
+    <updated>2023-11-15T11:44:37.990Z</updated>
     
     
     <summary type="html">&lt;p&gt;经过断断续续一个学期几次小短途骑行&lt;/p&gt;</summary>

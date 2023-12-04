@@ -1,342 +1,172 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.2.0">
-
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
-
-<link rel="stylesheet" href="/css/main.css">
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.3.0/css/all.min.css" integrity="sha256-/4UQcSmErDzPCMAiuOiWPVVsNN2s3ZY/NsmXNcj0IFc=" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
-
-<script class="next-config" data-name="main" type="application/json">{"hostname":"www.kogami.cn","root":"/","images":"/images","scheme":"Mist","darkmode":true,"version":"8.15.0","exturl":false,"sidebar":{"position":"left","width":280,"display":"always","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":true,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
-
-    <meta name="description" content="用低刷新率屏幕玩游戏，如果游戏画面大幅度移动，会出现模糊和拖影">
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>显示技术与游戏 | 宇宙星辰</title><meta name="author" content="高宇辰,gaoyc37@outlook.com"><meta name="copyright" content="高宇辰"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="用低刷新率屏幕玩游戏，如果游戏画面大幅度移动，会出现模糊和拖影">
 <meta property="og:type" content="article">
 <meta property="og:title" content="显示技术与游戏">
 <meta property="og:url" content="https://www.kogami.cn/post/i-001-monitor-gaming.html">
 <meta property="og:site_name" content="宇宙星辰">
 <meta property="og:description" content="用低刷新率屏幕玩游戏，如果游戏画面大幅度移动，会出现模糊和拖影">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://www.kogami.cn/images/I-001/CRT_principle_side.png">
-<meta property="og:image" content="https://www.kogami.cn/images/I-001/CRT_principle_front.png">
-<meta property="og:image" content="https://www.kogami.cn/images/I-001/FPS&amp;Latency.png">
-<meta property="og:image" content="https://www.kogami.cn/images/I-001/tuoying.png">
-<meta property="og:image" content="https://www.kogami.cn/images/I-001/Si_lie.jfif">
+<meta property="og:image" content="https://www.kogami.cn/images/I-001/cover.jpg">
 <meta property="article:published_time" content="2023-03-13T14:01:38.000Z">
 <meta property="article:modified_time" content="2023-11-08T14:12:30.222Z">
 <meta property="article:author" content="高宇辰">
 <meta property="article:tag" content="技术">
 <meta property="article:tag" content="游戏">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://www.kogami.cn/images/I-001/CRT_principle_side.png">
+<meta name="twitter:image" content="https://www.kogami.cn/images/I-001/cover.jpg"><link rel="shortcut icon" href="/images/C2.jpg"><link rel="canonical" href="https://www.kogami.cn/post/i-001-monitor-gaming"><link rel="preconnect" href="//cdn.jsdelivr.net"/><meta name="baidu-site-verification" content="eUH0quBNXsDceF2V"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.json","preload":true,"languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: {"limitDay":100,"position":"top","messagePrev":"此文章已有","messageNext":"天未更新，时效性内容可能不再有效"},
+  highlight: {"plugin":"prismjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体","cht_to_chs":"你已切换为简体","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#49b1f5","bgDark":"#1f1f1f","position":"bottom-left"},
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: true,
+  islazyload: true,
+  isAnchor: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '显示技术与游戏',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2023-11-08 22:12:30'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
 
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
 
-<link rel="canonical" href="https://www.kogami.cn/post/i-001-monitor-gaming.html">
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
 
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
 
-
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://www.kogami.cn/post/i-001-monitor-gaming.html","path":"/post/i-001-monitor-gaming.html","title":"显示技术与游戏"}</script>
-
-<script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>显示技术与游戏 | 宇宙星辰</title>
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
   
-
-
-
-
-
-
-
-<link rel="dns-prefetch" href="waline.knxyz.xyz">
-  <noscript>
-    <link rel="stylesheet" href="/css/noscript.css">
-  </noscript>
-<!-- hexo injector head_end start --><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-double-row-display@1.00/cardlistpost.min.css"/>
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          const now = new Date()
+          const hour = now.getHours()
+          const isNight = hour <= 6 || hour >= 18
+          if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+          else if (t === 'light') activateLightMode()
+          else activateDarkMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><link rel="stylesheet" href="/css/font.css"><link rel="stylesheet" href="/css/mycss.css"><link rel="stylesheet" href="/css/custom/menu_center.css"><!-- hexo injector head_end start --><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-double-row-display@1.00/cardlistpost.min.css"/>
 <style>#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .tags:before {content:"\A";
   white-space: pre;}#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .tags > .article-meta__separator{display:none}</style>
-<!-- hexo injector head_end end -->
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.2.0">
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
 <link rel="alternate" href="/atom.xml" title="宇宙星辰" type="application/atom+xml">
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage">
-  <div class="headband"></div>
-
-  <main class="main">
-    <div class="column">
-      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <p class="site-title">宇宙星辰</p>
-      <i class="logo-line"></i>
-    </a>
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger" aria-label="搜索" role="button">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于我</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">4</span></a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">7</span></a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</header>
-        
-  
-  <aside class="sidebar">
-    
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B3%E4%BA%8E%E6%B8%B8%E6%88%8F%E5%B8%A7%E7%8E%87-fps"><span class="nav-number">1.</span> <span class="nav-text">关于游戏帧率( fps )</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B3%E4%BA%8E%E5%88%B7%E6%96%B0%E7%8E%87-hz"><span class="nav-number">2.</span> <span class="nav-text">关于刷新率( hz )</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BB%B6%E8%BF%9F"><span class="nav-number">2.1.</span> <span class="nav-text">延迟</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%8B%96%E5%BD%B1"><span class="nav-number">2.2.</span> <span class="nav-text">拖影</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%BD%99%E6%99%96%E6%95%88%E5%BA%94"><span class="nav-number">2.2.1.</span> <span class="nav-text">余晖效应</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4"><span class="nav-number">2.2.2.</span> <span class="nav-text">响应时间</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%B6%8B%E5%8A%BF"><span class="nav-number">2.2.3.</span> <span class="nav-text">趋势</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%94%BB%E9%9D%A2%E6%92%95%E8%A3%82"><span class="nav-number">2.3.</span> <span class="nav-text">画面撕裂</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%BB%E7%BB%93"><span class="nav-number">3.</span> <span class="nav-text">总结</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="高宇辰"
-      src="/images/avatar.jpg">
-  <p class="site-author-name" itemprop="name">高宇辰</p>
-  <div class="site-description" itemprop="description">生命不息<br>折腾不止</div>
-</div>
-<div class="site-state-wrap animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-        <a href="/archives/">
-          <span class="site-state-item-count">7</span>
-          <span class="site-state-item-name">文章</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-          <a href="/categories/">
-        <span class="site-state-item-count">4</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-          <a href="/tags/">
-        <span class="site-state-item-count">12</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author animated">
-      <span class="links-of-author-item">
-        <a href="mailto:gaoyc37@outlook.com" title="E-Mail → mailto:gaoyc37@outlook.com" rel="noopener me" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/405787746" title="bilibili → https:&#x2F;&#x2F;space.bilibili.com&#x2F;405787746" rel="noopener me" target="_blank"><i class="fa-brands fa-bilibili fa-fw"></i>bilibili</a>
-      </span>
-  </div>
-  <div class="cc-license animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" class="cc-opacity" rel="noopener" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@creativecommons/vocabulary@2020.11.3/assets/license_badges/small/by_nc_sa.svg" alt="Creative Commons"></a>
-  </div>
-
-        </div>
-      </div>
-    </div>
-
-    
-    <div class="sidebar-inner sidebar-blogroll">
-      <div class="links-of-blogroll animated">
-        <div class="links-of-blogroll-title"><i class="fa fa-globe fa-fw"></i>
-          链接
-        </div>
-        <ul class="links-of-blogroll-list">
-            <li class="links-of-blogroll-item">
-              <a href="https://waline.knxyz.xyz/ui" title="https:&#x2F;&#x2F;waline.knxyz.xyz&#x2F;ui" rel="noopener" target="_blank">评论管理</a>
-            </li>
-        </ul>
-      </div>
-    </div>
-  </aside>
-
-
-    </div>
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://www.kogami.cn/post/i-001-monitor-gaming.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="高宇辰">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="宇宙星辰">
-      <meta itemprop="description" content="生命不息<br>折腾不止">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="显示技术与游戏 | 宇宙星辰">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          显示技术与游戏
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2023-03-13 22:01:38" itemprop="dateCreated datePublished" datetime="2023-03-13T22:01:38+08:00">2023-03-13</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2023-11-08 22:12:30" itemprop="dateModified" datetime="2023-11-08T22:12:30+08:00">2023-11-08</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index"><span itemprop="name">技术</span></a>
-        </span>
-    </span>
-
-  
-    <span class="post-meta-item" title="阅读数" id="busuanzi_container_page_pv">
-      <span class="post-meta-item-icon">
-        <i class="far fa-eye"></i>
-      </span>
-      <span class="post-meta-item-text">阅读数：</span>
-      <span id="busuanzi_value_page_pv"></span>
-    </span>
-  
-  <span class="post-meta-item">
-    
-    <span class="post-meta-item-icon">
-      <i class="far fa-comment"></i>
-    </span>
-    <span class="post-meta-item-text">Waline：</span>
-  
-    <a title="waline" href="/post/i-001-monitor-gaming.html#waline" itemprop="discussionUrl">
-      <span class="post-comments-count waline-comment-count" data-path="/post/i-001-monitor-gaming.html" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="本文字数">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">本文字数：</span>
-      <span>3.1k</span>
-    </span>
-    <span class="post-meta-item" title="阅读时长">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">阅读时长 &asymp;</span>
-      <span>11 分钟</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p>用低刷新率屏幕玩游戏，如果游戏画面大幅度移动，会出现模糊和拖影<span id="more"></span>,屏幕像被蒙了层灰，进而影响游戏操作。由此，屏幕刷新率低也被一些人（比如我）当做游戏失利的借口。所以游戏帧率和屏幕刷新率真的会影响游戏的操作吗？哪个更重要？在条件有限的情况下提升哪项“性价比”更高？</p>
+</head><body><link rel="stylesheet" href="/loading-bar"/><script src="https://cdn.jsdelivr.net/npm/pace-js/pace.min.js"></script><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/images/R2.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">8</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">12</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 历史</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/musics/"><i class="fa-fw fa-solid fa-music"></i><span> 音乐</span></a></div><div class="menus_item"><a class="site-page" href="/messageboard/"><i class="fa-fw fas fa-paper-plane"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="not-top-img" id="page-header"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">宇宙星辰</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 历史</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/musics/"><i class="fa-fw fa-solid fa-music"></i><span> 音乐</span></a></div><div class="menus_item"><a class="site-page" href="/messageboard/"><i class="fa-fw fas fa-paper-plane"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav></header><main class="layout" id="content-inner"><div id="post"><div id="post-info"><h1 class="post-title">显示技术与游戏</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-03-13T14:01:38.000Z" title="发表于 2023-03-13 22:01:38">2023-03-13</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-11-08T14:12:30.222Z" title="更新于 2023-11-08 22:12:30">2023-11-08</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E6%8A%80%E6%9C%AF/">技术</a></span></div><div class="meta-secondline"></div></div></div><article class="post-content" id="article-container"><p>用低刷新率屏幕玩游戏，如果游戏画面大幅度移动，会出现模糊和拖影<span id="more"></span>,屏幕像被蒙了层灰，进而影响游戏操作。由此，屏幕刷新率低也被一些人（比如我）当做游戏失利的借口。所以游戏帧率和屏幕刷新率真的会影响游戏的操作吗？哪个更重要？在条件有限的情况下提升哪项“性价比”更高？</p>
 <p>本文谈谈我对帧率和刷新率的看法，希望这些文字能给热爱技术的玩家一些帮助。（经验声明：CSGO 2000h 5E 2800，1300h 为 60HZ 显示器，目前显示器为 240HZ）</p>
 <h2 id="关于游戏帧率-fps"><a href="#关于游戏帧率-fps" class="headerlink" title="关于游戏帧率( fps )"></a>关于游戏帧率( fps )</h2><p>帧率——每秒生成的画面数量，图像运动的本质。单位时间内生成的画面越多，画面也就越流畅。很久以前，胶片价格不菲<del>当然现在依然不菲</del>，为了同时满足观赏性和低成本的需求，得出了“每秒拍摄24帧的流畅程度可以欺骗视觉”的结论，这也是很多游戏主机上的游戏，大多能运行30fps及以上的帧率的原因。</p>
 <p>反观游戏，其画面产生的原理，简单讲就是先由CPU负责处理信息，再将画面计算请求传给显卡，显卡绘制完图像后再通过数据线输出显示器上。不过要强调的是显卡计算画面是不规律的，也就是说虽然一秒内可能生成了整整60帧，但是会出现前59帧在前0.1s内生成，最后一帧却用了0.9s才被计算出来的极端情况。留个心眼，后面要考; )</p>
 <p>顺带一提，对于一些硬核射击游戏而言（CS、瓦、APEX、PUBG、R6、<del>CF</del>），CPU的提升能带来更直观的帧数上涨，尤其大多游戏对CPU多线程的利用不佳，所以CPU单核的睿频就尤为的重要。一定程度上来讲，帧率决定了游戏画面流畅性的上限，而非显示器。</p>
 <h2 id="关于刷新率-hz"><a href="#关于刷新率-hz" class="headerlink" title="关于刷新率( hz )"></a>关于刷新率( hz )</h2><p>随着时代的进步，游戏机和 PC 的游戏帧数早已突破了正常液晶（LCD）显示器的上限，为了承接溢出的性能，高刷显示器应运而生。但所谓的“高刷新率（≥60hz)”并不是近些年才出现，最早的大屁股（CRT）显示器的刷新率就不像现在的液晶显示器是60hz，而是85hz~100hz，这是因为CRT显示器靠电子束射向屏幕荧光粉快速不断的扫描，不像LCD一直发光的背光板。因为没有稳定持续的背光源，低刷新率会导致频闪，高刷新率是非常必要的。</p>
-<p><img data-src="/../images/I-001/CRT_principle_side.png" alt="CRT 侧面"></p>
-<p><img data-src="/../images/I-001/CRT_principle_front.png" alt="CRT 正面"></p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../images/I-001/CRT_principle_side.png" alt="CRT 侧面"></p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../images/I-001/CRT_principle_front.png" alt="CRT 正面"></p>
 <h3 id="延迟"><a href="#延迟" class="headerlink" title="延迟"></a>延迟</h3><p>所以不同档次的刷新率到底对游戏画面会产生什么样的影响？看看下面这张图吧！</p>
-<p><img data-src="/../images/I-001/FPS&amp;Latency.png" alt="刷新率对延迟的影响"></p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../images/I-001/FPS&amp;Latency.png" alt="刷新率对延迟的影响"></p>
 <p>可以看到由下至上刷新率越高，同一时间点人物模型越接近对手的实际位置，越能更快的发现的对手。刷新率的大小决定游戏画面的改变频率，计算一下，如果60hz是 1/60s≈0.017s 刷新一次，而144hz则是 1/144s≈0.007s，240hz更是只有 1/240s≈0.004s 。立竿见影，越高的刷新率拥有更低的刷新延迟，更快的发现对手。流畅的画面可以对射击游戏中拽光弹的位置进行预判，做到精准的压枪和定位。</p>
 <p>不过从数据中还可以知道，刷新率越高带来的低延迟增益愈不明显，基本相同的刷新率增长梯度下，由60hz到144hz是0.01s的差别，而 144hz 到 240hz 却只提升了0.003s 。总结一下，低刷新区间的刷新率改变带来的延迟变化是显著的，而延迟变化显著程度随刷新率整体的提升变得越来越弱，也就是说60hz转144hz屏幕的提升优于144hz到240hz的转变。已经在用144hz的是否再升级240hz甚至360hz，最重要的是根据钱包进行考量和选择 ：P</p>
 <h3 id="拖影"><a href="#拖影" class="headerlink" title="拖影"></a>拖影</h3><p>说完了刷新率对延迟的影响，再谈谈和刷新率变化密切相关的另一个因素——拖影。</p>
-<p><img data-src="/../images/I-001/tuoying.png" alt="拖影"></p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../images/I-001/tuoying.png" alt="拖影"></p>
 <h4 id="余晖效应"><a href="#余晖效应" class="headerlink" title="余晖效应"></a>余晖效应</h4><p>由于人眼的余晖效应（视觉暂留现象），拖影是一种生活中常见的现象，可以简单理解为视网膜的图像不会完全在人脑消失，而是驻留一定时间才会消失，且移动速度越快的物体拖影越明显。显示器虽然跟人眼的拖影不完全一样，但都是由于不能足够快（快到人眼无法察觉）的响应 “画面需要消失的部分” 和 “画面需要显示的部分” 从而产生拖影，所以提高刷新率能解决一部分问题、</p>
 <h4 id="响应时间"><a href="#响应时间" class="headerlink" title="响应时间"></a>响应时间</h4><p>但仅仅提高刷新率还不够，这就要引出另外一个参数指标——响应时间。显示器的响应时间是决定画面“干净”的重要因素，由于液晶显示器（LCD，包括IPS、VA、TN面板）由背光层（白光常亮背光）和液晶层（改变背光颜色）组成。而液晶层因为需要根据显卡的指令，不断改变每个像素点的颜色。就像在背光层和眼睛之间放一个三棱镜，将光分散，然后控制角度发出想要的颜色。而这种切换颜色的速度也会有快慢之分，品质好的显示器响应时间就会短一些，更及时的响应颜色改变的请求，减少拖影产生。</p>
 <p>不同类型的液晶显示器（LCD）面板有着不同的平均响应时间，泛泛的说一下三种显示器面板类型的特点</p>
@@ -347,7 +177,7 @@
 <h4 id="趋势"><a href="#趋势" class="headerlink" title="趋势"></a>趋势</h4><p>上面说的三种面板都是LCD，不过随着技术的发展，OLED 、AMOLED（类OLED）、MINILED、甚至MICROLED（目前显示面板最优解）也都逐渐成为主流。尤其是以有机自主发光为卖点的 OLED 的屏幕，因其自身没有像 LCD 的液晶层，转换像素颜色的速度极快，甚至能做到连TN屏幕也很难做到的1ms响应时间。所以未来属于——MICROLED ：）</p>
 <p>因为OLED是“有机”，而有机的最大缺点就是不稳定，易损耗。所以OLED长期使用会出现偏色的情况，如果长期激发某一区域保持高亮度显示，就会造成这个区域的亮度与其它区域不同造成色差，俗称“烧屏”。除了烧屏，还有一个缺点是部分OLED使用的是PWM调光技术而非DC调光。因为OLED是像素自发光提供亮度，所以就算1920×1080分辨率的普通屏幕，也有2073600个像素点！这使得控制亮度均匀变得十分困难，PWM调光便是靠亮灭达到对屏幕亮度的控制。高亮度的时候，亮屏的时间比较久，屏幕点亮时间越长，亮度就越高。 为了降低亮度，则需要加入灭屏时间，为了持续降低亮度，灭屏的时间越来越多。</p>
 <p>反观LCD因为只有一块纯白背光板就好控制多了，所以也就有相当一部分LCD使用的DC调光而非PWM调光，DC调光是靠改变电路功率大小实现的。简而言之就是不闪，而PWM则是高亮度不闪，低亮度闪，也就导致了部分人会产生眼睛不舒服的情况。那有人可能要问了，为什么OLED不能使用DC调光技术？因为OLED的RGB像素点对电压大小的反应不同，也就是说同样的电压并不能使屏幕上的所有像素点保持同样的颜色和亮度。不过MICROLED就没有这个问题，因为MICROLED是类似LCD的一种面板啊，集两家之长，两个字： <strong>无敌</strong>。</p>
-<h3 id="画面撕裂"><a href="#画面撕裂" class="headerlink" title="画面撕裂"></a>画面撕裂</h3><p><img data-src="/../images/I-001/Si_lie.jfif" alt="画面撕裂"></p>
+<h3 id="画面撕裂"><a href="#画面撕裂" class="headerlink" title="画面撕裂"></a>画面撕裂</h3><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../images/I-001/Si_lie.jfif" alt="画面撕裂"></p>
 <p>玩游戏时大幅镜头晃动导致画面被切断，是因为当游戏帧数超过屏幕刷新率时（例如屏幕 60hz ，帧数却300fps+），显示器来不及显示显卡给的前一张画面就被催着显示下一张。想象一下300多帧被强塞进只有60hz的显示器，显示器每次刷新还都要选取显卡最新的画面，因为逐行扫描的缘故，画面需要在显示器上一条一条的刷新。自然还没等上一张显示完，后面的画面就插进来了，覆盖了前面的画面。</p>
 <p>还记得开头讲帧率时提到的那个极端情况吗？“ 59帧在前0.1s内生成，而最后一帧却用了0.9s才被计算出来”。用意是纠正“大于刷新率的帧数都会浪费”这个观点。</p>
 <p>因为帧率生成并不稳定，导致前面的59帧被挤到0.017s内显示，而最后一帧却要承担0.073s的屏幕刷新请求，所以不锁帧的情况下用60hz玩60fps上下的游戏会出现卡顿。而如果帧数远远大于显示器刷新率的限制，显示器才能有足够多的画面选择权，减少卡顿。</p>
@@ -355,156 +185,79 @@
 <p>如果以游戏画质为主的玩家可以尝试锁帧或者垂直同步(等待画面缓冲完毕再显示下一张，使帧率控制在显示器的最大刷新率内)，这样做还有一个好处就是可以是游戏帧数更稳定，比如一个未锁帧的电脑，一直用极限性能去计算画面，起初还能猖狂一会儿，可越到后面温度越高，直到碰到温度墙限制。为了降温，芯片不得不降低算力减少发热量，游戏帧数也就随之大幅下降，造成不稳定的游戏体验。但如果以竞技为主其它什么都不考虑的话还得乖乖关闭锁帧，或者锁在一个比较平均的帧数（CS控制台：’fps_max 200’），否则会有严重的操作延迟等着你：P</p>
 <h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>回答开头问题，游戏帧率和屏幕刷新率真的会影响游戏的操作吗，答案是肯定的，更高的刷新率的确可以更快的发现敌人，更好的根据画面变化操控鼠标。但真正好玩的游戏是不会受帧率或者刷新率局限的: )</p>
 <p>屏幕刷新率和游戏帧率之间个人认为显示器刷新率更重要，不过也有例外，如果是重度3A玩家当然还是以提升游戏帧率为主，因为大多数高画质设置的3A游戏还是只能以“主机帧率运行”。</p>
+</article><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E6%8A%80%E6%9C%AF/">技术</a><a class="post-meta__tags" href="/tags/%E6%B8%B8%E6%88%8F/">游戏</a></div><div class="post_share"><div class="addthis_inline_share_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=null" async="async"></script></div></div><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/post/0005.html" title="关于Hexo部署の坑"><img class="cover" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/images/0005/6.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-07-08</div><div class="title">关于Hexo部署の坑</div></div></a></div></div></div><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B3%E4%BA%8E%E6%B8%B8%E6%88%8F%E5%B8%A7%E7%8E%87-fps"><span class="toc-number">1.</span> <span class="toc-text">关于游戏帧率( fps )</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B3%E4%BA%8E%E5%88%B7%E6%96%B0%E7%8E%87-hz"><span class="toc-number">2.</span> <span class="toc-text">关于刷新率( hz )</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BB%B6%E8%BF%9F"><span class="toc-number">2.1.</span> <span class="toc-text">延迟</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%8B%96%E5%BD%B1"><span class="toc-number">2.2.</span> <span class="toc-text">拖影</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E4%BD%99%E6%99%96%E6%95%88%E5%BA%94"><span class="toc-number">2.2.1.</span> <span class="toc-text">余晖效应</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4"><span class="toc-number">2.2.2.</span> <span class="toc-text">响应时间</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E8%B6%8B%E5%8A%BF"><span class="toc-number">2.2.3.</span> <span class="toc-text">趋势</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%94%BB%E9%9D%A2%E6%92%95%E8%A3%82"><span class="toc-number">2.3.</span> <span class="toc-text">画面撕裂</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%80%BB%E7%BB%93"><span class="toc-number">3.</span> <span class="toc-text">总结</span></a></li></ol></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2023 by 高宇辰</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div></div></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
 
-    </div>
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
 
-    
-    
-    
+document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/js/search/local-search.js"></script><div class="js-pjax"><script>(() => {
+  const $mermaidWrap = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaidWrap.length) {
+    window.runMermaid = () => {
+      window.loadMermaid = true
+      const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default'
 
-    <footer class="post-footer">
-          <div class="post-tags">
-              <a href="/tags/%E6%8A%80%E6%9C%AF/" rel="tag"># 技术</a>
-              <a href="/tags/%E6%B8%B8%E6%88%8F/" rel="tag"># 游戏</a>
-          </div>
+      Array.from($mermaidWrap).forEach((item, index) => {
+        const mermaidSrc = item.firstElementChild
+        const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+        const mermaidID = 'mermaid-' + index
+        const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+        mermaid.mermaidAPI.render(mermaidID, mermaidDefinition, (svgCode) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svgCode)
+        })
+      })
+    }
 
-        
+    const loadMermaid = () => {
+      window.loadMermaid ? runMermaid() : getScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js').then(runMermaid)
+    }
 
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/post/samsung-g40b-test.html" rel="prev" title="三星G40B">
-                  <i class="fa fa-chevron-left"></i> 三星G40B
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/post/0005.html" rel="next" title="关于Hexo部署の坑">
-                  关于Hexo部署の坑 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
+    window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+  }
+})()</script><script>function loadWaline () {
+  function insertCSS () {
+    const link = document.createElement("link")
+    link.rel = "stylesheet"
+    link.href = "https://cdn.jsdelivr.net/npm/@waline/client/dist/waline.min.css"
+    document.head.appendChild(link)
+  }
 
+  function initWaline () {
+    const waline = Waline.init(Object.assign({
+      el: '#waline-wrap',
+      serverURL: 'https://waline.knxyz.xyz',
+      pageview: false,
+      dark: 'html[data-theme="dark"]',
+      path: window.location.pathname,
+      comment: false,
+    }, null))
+  }
 
+  if (typeof Waline === 'function') initWaline()
+  else {
+    insertCSS()
+    getScript('https://cdn.jsdelivr.net/npm/@waline/client/dist/waline.min.js').then(initWaline)
+  }
+}
 
-
-
-
-    <div class="comments" id="waline"></div>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">高宇辰</span>
-</div>
-<div class="wordcount">
-  <span class="post-meta-item">
-    <span class="post-meta-item-icon">
-      <i class="fa fa-chart-line"></i>
-    </span>
-      <span>站点总字数：</span>
-    <span title="站点总字数">6k</span>
-  </span>
-  <span class="post-meta-item">
-    <span class="post-meta-item-icon">
-      <i class="fa fa-coffee"></i>
-    </span>
-      <span>站点阅读时长 &asymp;</span>
-    <span title="站点阅读时长">24 分钟</span>
-  </span>
-</div>
-<div class="busuanzi-count">
-    <span class="post-meta-item" id="busuanzi_container_site_uv">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-user"></i>
-      </span>
-      <span class="site-uv" title="总访客量">
-        <span id="busuanzi_value_site_uv"></span>
-      </span>
-    </span>
-    <span class="post-meta-item" id="busuanzi_container_site_pv">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-eye"></i>
-      </span>
-      <span class="site-pv" title="总访问量">
-        <span id="busuanzi_value_site_pv"></span>
-      </span>
-    </span>
-</div>
-
-
-    </div>
-  </footer>
-
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-  <div class="sidebar-dimmer"></div>
-  <div class="back-to-top" role="button" aria-label="返回顶部">
-    <i class="fa fa-arrow-up fa-lg"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-  
-
-
-  <script src="/%5Bobject%20Object%5D"></script>
-  <script src="/%5Bobject%20Object%5D"></script>
-  <script src="/%5Bobject%20Object%5D"></script>
-  <script src="/%5Bobject%20Object%5D"></script>
-  <script src="/%5Bobject%20Object%5D"></script>
-  <script src="/%5Bobject%20Object%5D"></script>
-  <script src="/%5Bobject%20Object%5D"></script>
-  <script src="/%5Bobject%20Object%5D"></script>
-
-<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
-
-  <script src="https://cdn.jsdelivr.net/npm/hexo-generator-searchdb@1.4.1/dist/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
-<script src="/js/third-party/search/local-search.js"></script>
-
-
-
-  <script src="/js/third-party/fancybox.js"></script>
-
-
-  
-  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-
-
-
-  <script src="https://cdn.jsdelivr.net/npm/quicklink@2.3.0/dist/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
-  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://www.kogami.cn/post/i-001-monitor-gaming.html"}</script>
-  <script src="/js/third-party/quicklink.js"></script>
-<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-cn","enable":true,"serverURL":"waline.knxyz.xyz","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"文明、文明、还是tmd文明！","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":[],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","copyright":false,"emoji":["https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji","https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili"],"el":"#waline","comment":true,"path":"/post/i-001-monitor-gaming.html"}</script>
-<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
-<script>
-document.addEventListener('page:loaded', () => {
-  NexT.utils.loadComments(CONFIG.waline.el).then(() =>
-    NexT.utils.getScript(CONFIG.waline.libUrl, { condition: window.Waline })
-  ).then(() => 
-    Waline.init(Object.assign({}, CONFIG.waline,{ el: document.querySelector(CONFIG.waline.el) }))
-  );
-});
-</script>
-
-</body>
-</html>
+if ('Waline' === 'Waline' || !true) {
+  if (true) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  else setTimeout(loadWaline, 0)
+} else {
+  function loadOtherComment () {
+    loadWaline()
+  }
+}</script></div><script src="https://cdn.jsdelivr.net/npm/prismjs/prism.min.js"></script><script src="https://cdn.jsdelivr.net/npm/prismjs/plugins/autoloader/prism-autoloader.min.js"></script><script src="https://cdn.jsdelivr.net/npm/prismjs/plugins/line-numbers/prism-line-numbers.min.js"></script><script defer="defer" id="ribbon" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/canvas-ribbon.min.js" size="150" alpha="0.6" zIndex="-1" mobile="true" data-click="false"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/metingjs/dist/Meting.min.js"></script></div></body></html>
